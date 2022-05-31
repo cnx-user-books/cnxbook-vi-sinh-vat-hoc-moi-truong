@@ -1,0 +1,1643 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Sinh lý đại cương vi sinh vật</title>
+  <metadata>
+  <md:content-id>m30701</md:content-id><md:title>Sinh lý đại cương vi sinh vật</md:title>
+  <md:abstract>Phần này trình bày về dinh dưỡng của vi sinh vật</md:abstract>
+  <md:uuid>c788b5e3-7161-4640-9f5c-0a4e9aa7cf0f</md:uuid>
+</metadata>
+
+<content>
+    <para id="id8459663">DINH DƯỠNG CỦA VI SINH VẬT</para>
+    <section id="id-189250740884">
+      <title>Thành phần tế bào của vi sinh vật</title>
+      <para id="id8459676">Các chất dinh dưỡng đối với vi sinh vật là bất kỳ chất nào được vi sinh vật hấp thụ từ môi trường xung quanh và được chúng sử dụng làm nguyên liệu để cung cấp cho các quá trình sinh tổng hợp tạo ra các thành phần của tế bào hoặc để cung cấp cho các quá trình trao đổi năng lượng.</para>
+      <para id="id8459695">Quá trình hấp thụ các chất dinh dưỡng để thoả mãn mọi nhu cầu sinh trưởng và phát triển được gọi là quá trình dinh dưỡng.</para>
+      <para id="id8459709">Hiểu biết về quá trình dinh dưỡng là cơ sở tất yếu để có thể nghiên cứu, ứng dụng hoặc ức chế vi sinh vật.</para>
+      <para id="id8459722">Không phải mọi thành phần của môi trường nuôi cấy vi sinh vật đều được coi là chất dinh dưỡng. Một số chất rắn cần thiết cho vi sinh vật nhưng chỉ làm nhiệm vụ bảo đảm các điều kiện thích hợp về thế oxi hoá - khử, về pH, về áp suất thẩm thấu, về cân bằng lớn ... Chất dinh dưỡng phải là những hợp chất có tham gia vào các quá trình trao đổi chất nội bào.</para>
+      <para id="id8459740">Thành phần hoá học của tế bào vi sinh vật quyết định nhu cầu dinh dưỡng của chúng. Thành phần hoá học cấu tạo bởi các nguyên tố C, H, O, N, các nguyên tố khoảng đa lượng và các nguyên tố khoáng vi lượng. Chỉ riêng các nguyên tố C, H, O, N, P, S, K. Na đã chiếm đến 98% khối lượng khô của tế bào vi khuẩn E.Coli.</para>
+      <para id="id8459759">Bảng 2.1. Thành phần các nguyên tố chủ yếu của tế bào vi khuẩn E.Coli (S.E.Luria)</para>
+      <table id="id8459767" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Nguyên tố</entry>
+              <entry>% Chất khô</entry>
+              <entry/>
+              <entry>Nguyên tố</entry>
+              <entry>% Chất khô</entry>
+            </row>
+            <row>
+              <entry>C</entry>
+              <entry>50</entry>
+              <entry/>
+              <entry>Na</entry>
+              <entry>1,0</entry>
+            </row>
+            <row>
+              <entry>O</entry>
+              <entry>20</entry>
+              <entry/>
+              <entry>Ca</entry>
+              <entry>0,5</entry>
+            </row>
+            <row>
+              <entry>N</entry>
+              <entry>14</entry>
+              <entry/>
+              <entry>Mg</entry>
+              <entry>0,5</entry>
+            </row>
+            <row>
+              <entry>H</entry>
+              <entry>8</entry>
+              <entry/>
+              <entry>Cl</entry>
+              <entry>0,2</entry>
+            </row>
+            <row>
+              <entry>P</entry>
+              <entry>3</entry>
+              <entry/>
+              <entry>Fe</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>S</entry>
+              <entry>1</entry>
+              <entry/>
+              <entry>Các nguyên</entry>
+              <entry>0,3</entry>
+            </row>
+            <row>
+              <entry>K</entry>
+              <entry>1</entry>
+              <entry/>
+              <entry>tố khác</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8460167">Lượng chứa các nguyên tố ở các vi sinh vật khác nhau là không giống nhau. Ở các điều kiện nuôi cấy khác nhau, các giai đoạn khác nhau lượng chứa các nguyên tố trong cùng một loài vi sinh vật cũng không giống nhau. Trong tế bào vi sinh vật các hợp chất được phân thành 2 nhóm lớn: (1). Nước và các muối khoáng; (2). Các chất hữu cơ.</para>
+      <para id="id8460185">Bảng 2.2. Các nhóm hợp chất chủ yếu của tế bào vi khuẩn E. Coli</para>
+      <table id="id8460194" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>Loại hợp chất</entry>
+              <entry>Nước</entry>
+              <entry>Protein</entry>
+              <entry>ADN</entry>
+              <entry>ARN</entry>
+              <entry>Hidrat C</entry>
+              <entry>Lipit</entry>
+              <entry>Chất hữu cơ phân tử nhỏ</entry>
+              <entry>Các phân tử vô cơ</entry>
+            </row>
+            <row>
+              <entry>Lượng chứa (%)</entry>
+              <entry>70</entry>
+              <entry>15</entry>
+              <entry>1</entry>
+              <entry>6</entry>
+              <entry>3</entry>
+              <entry>2</entry>
+              <entry>2</entry>
+              <entry>1</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id-0166370618346">
+      <title>Nước và muối khoáng</title>
+      <para id="id8460437">Nước chiếm đếm 70 - 90% khối luợng cơ thể sinh vật. Tất cả các phản ứng xảy ra trong tế bào vi sinh vật đều đòi hỏi có sự tồn tại của nước. Ở vi khuẩn lượng chứa nước thường là 70 - 85%, ở nấm sợi thường là 85 - 90%.</para>
+      <para id="id8460455">Từ cổ xưa người ta đã biết sử dụng phương pháp sấy khô thực phẩm để đình chỉ sự phát triển của vi sinh vật. Việc sử dụng muối hoặc đường để bảo quản thực phẩm chẳng qua cũng chỉ nhằm tạo ra một sự khô cạn sinh lý không thích hợp cho sự phát triển của vi sinh vật.</para>
+      <para id="id8460474">Yêu cầu của vi sinh vật đối với nước được biểu thị một cách định lượng bằng độ hoạt động của nước (water activity, aw) trong môi trường. Độ hoạt động của nước còn được gọi là thế năng của nước (water potential, pw):</para>
+      <para id="id8460508">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>a</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>w</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mi/>
+                    </m:mrow>
+                    <m:mfrac>
+                      <m:mi>p</m:mi>
+                      <m:msub>
+                        <m:mi>p</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>O</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{a rSub { size 8{w} } =` {  {p}  over  {p rSub { size 8{O} } } } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id8460595">Ở đây p là áp lực hơi của dung dịch còn pO là áp lực hơi nước. Nước nguyên chất có aw = 1, nước biển có aw = 0,980, máu người có aw = 0,995, cá muối có aw = 0,750; kẹo, mức có aw = 0,700.</para>
+      <para id="id8460661">Mỗi sinh vật thường có một trị số aw tối thích và một trị số aw tối thiểu. Một số sinh vật có thể phát triển được trong môi trường có trị số aw rất thấp, người ta gọi chúng là các vi sinh vật chịu áp (osmophyl). Chẳng hạn aw có thể chấp nhận được của Saccharomyces rouxii là 0,850; của Saccharomyces bailii; của Pennicillium là 0,800; của Halobacterium, Halococcus là 0,750; của Xeromyces bisporus là 0,700 ...</para>
+      <para id="id8460752">Phần nước có thể tham gia vào các quá trình trao đổi chất của vi sinh vật được gọi là nước tự do. Đa phần nước trong tế bào vi sinh vật tồn tại ở dạng nước tự do. Nước kết hợp là phần nước liên kết với các hợp chất hữu cơ cao phân tử trong tế bào (protein, lipit, hidrat cacbon ...). Nước liên kết mất khả năng hoà tan và lưu động.</para>
+      <para id="id8460771">Muối khoáng chiếm khoảng 2 - 5% khối lượng khô của tế bào. Chúng thường tồn tại dưới dạng các muối sunphat, photphat, cacbonat, clorua ... Trong tế bào chúng thường ở dạng các ion. Dạng cation chẳng hạn như Mg2+, Ca2+, K+, Na+ ... Dạng anion chẳng hạn như 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msubsup><m:mtext>HPO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mstyle><m:mi>,</m:mi><m:mi/><m:mstyle fontstyle="italic"><m:mrow><m:msubsup><m:mtext>SO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mstyle><m:mi>,</m:mi><m:mi/><m:mstyle fontstyle="italic"><m:mrow><m:msubsup><m:mtext>HCO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msubsup></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "HPO" rSub { size 8{4} }  rSup { size 8{2 - {}} } ,` ital "SO" rSub { size 8{4} }  rSup { size 8{2 - {}} } ,`` ital "HCO" rSub { size 8{3} }  rSup { size 8{ - {}} } } {}</m:annotation></m:semantics></m:math>, Cl- ... Các ion trong tế bào vi sinh vật luôn tồn tại ở những tỷ lệ nhất định nhằm duy trì độ pH và lực thẩm thấu thích hợp cho từng loại vi sinh vật.</para>
+      <para id="id8460979">Bảng 2.3. Mức aw thấp nhất đối với một số vi sinh vật</para>
+      <table id="id8460997" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Số thứ tự</entry>
+              <entry>Nhóm vi sinh vật</entry>
+              <entry>aw thấp nhất</entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>Phần lớn vi khuẩn gram (-)</entry>
+              <entry>0,97</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>Phần lớn vi khuẩn gram (+)</entry>
+              <entry>0,90</entry>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>Phần lớn nấm men</entry>
+              <entry>0,88</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>Phần lớn nấm sợi</entry>
+              <entry>0,80</entry>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry>Vi khuẩn ưa mặn</entry>
+              <entry>0,75</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8461230">Cụ thể hơn ta có thể tham khảo bảng sau về khả năng phát triển của vi sinh vật ở những giá trị aw khác nhau.</para>
+      <para id="id8461252">Bảng 2.4. Khả năng phát triển của vi sinh vật ở giá trị aw tối thiểu khác nhau</para>
+      <table id="id8461263" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Số thứ tự</entry>
+              <entry>Vi sinh vật</entry>
+              <entry>aw </entry>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry>Canđia scottii</entry>
+              <entry>0,92</entry>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry>Trichosporon pullulans</entry>
+              <entry>0,91</entry>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry>Candida zeylanoides</entry>
+              <entry>0,90</entry>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry>Staphylococcus aureus</entry>
+              <entry>0,86</entry>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry>Atternaria citri</entry>
+              <entry>0,84</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id-401878241096">
+      <title>Chất hữu cơ</title>
+      <para id="id8461504">Chất hữu cơ trong tế bào vi sinh vật chủ yếu cấu tạo bởi các nguyên tố C, H, O, N, P, S ... Riêng 4 nguyên tố C, H, O, N đã chiếm tới 90 - 97% toàn bộ chất khô của tế bào. Đó là các nguyên tố chủ chốt để cấu tạo nên protein, axit nucleic, lipit, hidrat cacbon. Trong tế bào vi khuẩn các hợp chất đại phân tử thường chiếm tới 96% khối lượng khô, các chất đơn phân tử chỉ chiếm có 3,5% còn các ion vô cơ chỉ có 1% mà thôi.</para>
+      <para id="id8461523">Bảng 2.5. Thành phần hoá học của một tế bào vi khuẩn</para>
+      <para id="id8461529">(F.C Neidhardt, 1987)</para>
+      <table id="id8461534" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Phân tử</entry>
+              <entry>% khối lượng khô (1)</entry>
+              <entry>Số phân tử/ tế bào</entry>
+              <entry>Số loại phân tử</entry>
+            </row>
+            <row>
+              <entry>Nước </entry>
+              <entry>-</entry>
+              <entry/>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>Tổng số các đại phân tử</entry>
+              <entry>96</entry>
+              <entry>24.609.802</entry>
+              <entry>khoảng 2500</entry>
+            </row>
+            <row>
+              <entry>Protein </entry>
+              <entry>55</entry>
+              <entry>2.350.000</entry>
+              <entry>khoảng 1850</entry>
+            </row>
+            <row>
+              <entry>Polisaccarit </entry>
+              <entry>5</entry>
+              <entry>4.300</entry>
+              <entry>2 (2)</entry>
+            </row>
+            <row>
+              <entry>Lipit </entry>
+              <entry>9,1</entry>
+              <entry>22.000.000</entry>
+              <entry>4 (3)</entry>
+            </row>
+            <row>
+              <entry>ADN </entry>
+              <entry>3,1</entry>
+              <entry>2,1</entry>
+              <entry>1</entry>
+            </row>
+            <row>
+              <entry>ARN </entry>
+              <entry>20,5</entry>
+              <entry>255.500</entry>
+              <entry>khoảng 660</entry>
+            </row>
+            <row>
+              <entry>Tổng số các đơn phân tử</entry>
+              <entry>3,5</entry>
+              <entry/>
+              <entry>khoảng 350</entry>
+            </row>
+            <row>
+              <entry>Axit amin và tiền thể</entry>
+              <entry>0,5</entry>
+              <entry/>
+              <entry>khoảng 100</entry>
+            </row>
+            <row>
+              <entry>Đường và tiền thể</entry>
+              <entry>2</entry>
+              <entry/>
+              <entry>khoảng 50</entry>
+            </row>
+            <row>
+              <entry>Nucleotic và tiền thể</entry>
+              <entry>0,5</entry>
+              <entry/>
+              <entry>khoảng 200</entry>
+            </row>
+            <row>
+              <entry>Các ion vô cơ</entry>
+              <entry>1</entry>
+              <entry/>
+              <entry>18</entry>
+            </row>
+            <row>
+              <entry>Tổng cộng</entry>
+              <entry>100</entry>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8462151">Chú thích : </para>
+      <para id="id8462163">(1) khối lượng khô của 1 tế bào vi khuẩn E.Coli đang sinh trưởng mạnh là 2,8 x 10-13 g.</para>
+      <para id="id8462186">(2) : Peptidoglican và glicogen</para>
+      <para id="id8462193">(3) : Đó là 4 loại photpholipit, mỗi loại có nhiều nhóm khác nhau phụ thuộc vào thành phần axit béo.</para>
+      <para id="id8462205">a. Protein : cấu tạo chủ yếu bởi các nguyên tố : C (50 - 55%), O (21 - 24%), N (15 - 18%), H (6,5 - 7,3%), S (0 - 0,24%), ngoài ra còn có thể có một lượng rất nhỏ các nguyên tố khác nhau P, Fe, Zn, Cu, Mn, Ca ...</para>
+      <para id="id8462222">Protein được tạo thành từ các axit amin.</para>
+      <para id="id8462232">Khi hình thành protein các axit amin nối liền với nhau qua liên kết peptit (liên kết cộng hoá trị). Liên kết này (-CO-NH-) được tạo thành do phản ứng kết hợp giữa nhóm -cacboxyl 
+<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mi/><m:mi>O</m:mi><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mi>C</m:mi></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mi/><m:mrow><m:mi>O</m:mi><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow/></m:mtr><m:mtr><m:mi fontstyle="italic">righ</m:mi></m:mtr><m:mtr><m:mrow/></m:mtr><m:mtr><m:mrow/></m:mtr><m:mtr><m:mrow/></m:mtr><m:mtr><m:mtable><m:mtr><m:mrow><m:mfenced open="" close=""><m:mrow/></m:mfenced><m:mfenced open="" close=""><m:mrow/></m:mfenced><m:mrow/></m:mrow></m:mtr></m:mtable></m:mtr><m:mtr><m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{alignl { stack {
+ left (```````````O {} # 
+ right ) left ( - C {} # 
+ right ) left (```````````O - {} {} # 
+ righ)} }  \(  \) } {}</m:annotation></m:semantics></m:math>của một axit amin này với nhóm -amin (+H3N-) của một axit amin khác và loại đi một phân tử nước :</para>
+      <para id="id8462405"> NH2NH3+</para>
+      <para id="id8462439"/>
+      <para id="id8462534"> H C COOH H C COO-</para>
+      <para id="id8462611"/>
+      <para id="id8462634"> R R</para>
+      <para id="id8462653">Dạng không ion hoá Dạng ion lưỡng cực </para>
+      <para id="id8462666">của axit amin của axit amin</para>
+      <para id="id8462684"> O O</para>
+      <para id="id8462745">+H3N CH C  + +H3N CH C </para>
+      <para id="id7775433"> R1 O-  O- </para>
+      <para id="id7775485"> OO</para>
+      <para id="id7775501"/>
+      <para id="id7775531">+H3N CH C NH CH C </para>
+      <para id="id7775666">Tuỳ số lượng axit amin liên kết với nhau mà ta có các dipeptit, tripeptit, tetrapeptot, pentapeptit ... Từ phân tử có 15 liên kết peptit trở lên ta gọi là polipeptit. Polipeptit này còn được gọi là protein. Có lúc 1 protein được tạo thành do vài polipeptit liên kết lại với nhau.</para>
+      <para id="id7775685">Có 20 loại axit amin tham gia vào cấu trúc của protein, số gốc axit amin là rất lớn vì vậy có thể tạo ra được tới 2018 loại protein khác nhau (hiện đã biết rõ cấu trúc 3 chiều của khaỏng trên 100 loại protein). Các protein này có thể được xếp loại theo hình dạng, theo cấu trúc hoặc theo chức năng.</para>
+      <para id="id7775714">Axit amin oligopeptit (dipeptit, tripeptit ...)</para>
+      <para id="id7775762">Polipeptit</para>
+      <para id="id7775808">Protein </para>
+      <para id="id7775813">- Xếp loại theo hình dạng :- Protein hình sợi</para>
+      <para id="id7775823">- Protein hình cầu</para>
+      <para id="id7775833">- Xếp loại theo cấu trúc :</para>
+      <para id="id7775840">- Protein đơn giản</para>
+      <para id="id7775853">- Protein phức tạp (protein kết hợp)</para>
+      <list id="id7775864" list-type="bulleted">
+        <item>Nucleoprotein</item>
+      </list>
+      <para id="id7775873">(Protein + axit nucleic)</para>
+      <list id="id7775886" list-type="bulleted">
+        <item>Glicoprotein</item>
+      </list>
+      <para id="id7775895">(Protein + hidrat cacbon)</para>
+      <list id="id7775905" list-type="bulleted">
+        <item>Mucoprotein</item>
+      </list>
+      <para id="id7775913">(Protein + mucopolisaccarit)</para>
+      <list id="id7775923" list-type="bulleted">
+        <item>Photphoprotein</item>
+      </list>
+      <para id="id7775932">(Protein + axit photphoric)</para>
+      <list id="id7775942" list-type="bulleted">
+        <item>Cromoprotein</item>
+      </list>
+      <para id="id7775951">(Protein + hợp chất có màu)</para>
+      <list id="id7775961" list-type="bulleted">
+        <item>Metaloprotein</item>
+      </list>
+      <para id="id7775970">(Protein + kim loại)</para>
+      <para id="id7775981">- Xếp loại theo chức năng</para>
+      <para id="id7775990">- Protein phi hoạt tính (kiến tạo, dự trữ ...)</para>
+      <para id="id7775997">- Protein hoạt tính (xúc tác, vận tải, chuyển động, truyền xung thần kinh, điều hoà, bảo vệ ...)</para>
+      <para id="id7776010">Trong tế bào vi sinh vật ngoài protein, peptit còn có cả những axit amin ở trạng thái tự do.</para>
+      <para id="id7776019">Axit nucleic cấu tạo chủ yếu bởi N (1 - 16%), P (9 - 10%), phần còn lại là C, H, O. Căn cứ vào đường pentozơ trong phân tử mà axit nucleic được chia thành 2 loại: ADN (axit deoxiribonucleic, chứa deoxiribozơ) và ARN (axit ribonucleic, chứa ribozơ).</para>
+      <para id="id7776037">Các sản phẩm thuỷ phân của 2 loại axit nucleic này là như sau:</para>
+      <para id="id7776048">Axit photphoric</para>
+      <para id="id7776082">ARN  Polinucleotit  NucleotitD - Ribozơ</para>
+      <para id="id7776149">Nucleozit </para>
+      <para id="id7776180">Bazơ nitơ</para>
+      <para id="id7776197">- Adenin (A)</para>
+      <para id="id7776211">- Guanin (G)</para>
+      <para id="id7776217">- Uraxin (G)</para>
+      <para id="id7776222">- Xitozin (X)</para>
+      <para id="id7776228">Axit photphoric</para>
+      <para id="id7776280">ADN  Polinucleotit  Nucleotit D - 2 - Deoxiribozơ</para>
+      <para id="id7776330">Nucleozit</para>
+      <para id="id7776360">Bazơ nitơ</para>
+      <para id="id7776378">- Adenin (A)</para>
+      <para id="id7776383">- Guanin (G)</para>
+      <para id="id7776389">- Timin (T)</para>
+      <para id="id7776394">- Xitozin (X)</para>
+      <para id="id7776400">Tỷ lệ G + X ở các vi sinh vật khác nhau là có thể không giống nhau. Đây là một chỉ tiêu quan trọng được sử dụng trong phân loại vi sinh vật trong giai đoạn hiện nay.</para>
+      <para id="id7776415">b. Hydrat cacbon (cấu tạo bởi C, H, O) ở vi sinh vật có thể chia thành 3 nhóm:</para>
+      <para id="id7776434">- Monosaccarit:</para>
+      <para id="id7776439">+ Pentozơ : ribozơ, deoxiribozơ</para>
+      <para id="id7776450">+ Hexozơ : glucozơ, fructozơ, galactozơ</para>
+      <para id="id7776463">- Oligosaccarit:</para>
+      <para id="id7776475">+ Disaccarit: saccarozơ, lactozơ, maltozơ ...</para>
+      <para id="id7776488">+ Trisaccarit: rafinozơ ...</para>
+      <para id="id7776501">- Poligosaccarit : tinh bột, glixerin, dextrin, xenlulozơ, axit hialuronic ...</para>
+      <para id="id7776512">c. Lipit trong tế bào vi sinh vật thường có 2 nhóm: lipit đơn giản và lipit phức tạp (lipoit).</para>
+      <para id="id7776531">- Lipit đơn giản (este của glixerin và axit béo): chủ yếu là triaxinglixerol.</para>
+      <para id="id7776543">- Lipit phức tạp:</para>
+      <para id="id7776549">+ Photpholipit : chủ yếu là photphoglixerit ...</para>
+      <para id="id7776560">+ Glicolipit: galactozylglixerit, sulfoglucozylglixerit ...</para>
+      <para id="id7776570">Có những loại nấm men lượng lipit chứa tới 50 - 60% lipit. Photpholipit kết hợp với protein tạo thành lipoprotein. Chúng tham gia vào cấu trúc của màng tế bào chất, màng ti thể ...</para>
+      <para id="id7776585">d. Vitamin : Có sự khác nhau rất lớn trong nhu cầu của vi sinh vật. Có những vi sinh vật tự dưỡng chất sinh trưởng (auxoautotroph) chúng có thể tự tổng hợp ra các vitamin cần thiết. Nhưng cũng có nhiều loại vi sinh vật dị dưỡng chất sinh trưởng (auxoheterotroph), chúng đòi hỏi phải cung cấp ít hoặc nhiều loại vitamin khác nhau. Vai trò của một số vitamin trong hoạt động sống của vi sinh vật được hiểu tóm tắt như sau :</para>
+      <para id="id7776618">Bảng 2.6. Vai trò của vitamin đối với vi sinh vật</para>
+      <table id="id7776628" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Vitamin</entry>
+              <entry>Dạng coenzim</entry>
+              <entry>Chức năng</entry>
+            </row>
+            <row>
+              <entry>Tiamin (avevrin, B1)</entry>
+              <entry>Tiamin pirophotphat (TPP)</entry>
+              <entry>Oxi hoá và khử cacboxyl các ketoaxit, chuyển nhóm aldeit</entry>
+            </row>
+            <row>
+              <entry>Riboflavin (lactoflavin, B2)</entry>
+              <entry>Flavinmononucleotit(FMN), flavin adenin dinucleotit (FAD)</entry>
+              <entry>Chuyển hydro</entry>
+            </row>
+            <row>
+              <entry>Axit pantotenic (B3)</entry>
+              <entry>Coenzim A</entry>
+              <entry>Oxi hoá ketoaxit và tham gia vào trao đổi chất của axit béo</entry>
+            </row>
+            <row>
+              <entry>Niaxin (a. nicotinic, nicotinamin, B5)</entry>
+              <entry>Nicotin adeninDinucleotit (NAD) và NADP</entry>
+              <entry>Khử hydro và chuyển hydro</entry>
+            </row>
+            <row>
+              <entry>Piridoxin (pirdoxal, piridoxamin, B6)</entry>
+              <entry>Piridoxal photphat</entry>
+              <entry>Chuyển amin, khử amin, khử cacboxyl raxemin hoá axit amin</entry>
+            </row>
+            <row>
+              <entry>Biotin (B7, H)Axit folic (folaxin, B9, M, Bc ...)</entry>
+              <entry>Biotin Axit tetrahidrofolic</entry>
+              <entry>Chuyển CO2 và nhóm cacboxilicChuyển đơn vị 1 cacbonChuyển CO2 các nhóm cacboxilic</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id7777032" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>(Axit APAB paraaminobenzoic, B10)</entry>
+              <entry>Axit tetrahidrofolic</entry>
+              <entry>Chuyển đơn vị 1 cacbon</entry>
+            </row>
+            <row>
+              <entry>Xianocobalamin (cobalamin, B12)</entry>
+              <entry>Metilxianocobalamit</entry>
+              <entry>Chuyển nhóm metyl </entry>
+            </row>
+            <row>
+              <entry>Axit lipoic</entry>
+              <entry>Lipoamit</entry>
+              <entry>Chuyển nhóm axyl và nguyên tử hydro</entry>
+            </row>
+            <row>
+              <entry>Axit ascocbic(Vitamin C)</entry>
+              <entry/>
+              <entry>Là cofacto trong hydroxyl hoá</entry>
+            </row>
+            <row>
+              <entry>Ecgocanxiferol(Vitamin D2)</entry>
+              <entry>1,25 - dihidroxicole-canxiferol</entry>
+              <entry>Trao đổi canxi và photpho</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id-781604665629">
+      <title>Các nguồn dinh dưỡng chính của vi sinh vật</title>
+      <section id="id-70536720351">
+        <title>Nguồn thức ăn cacbon của vi sinh vật</title>
+        <para id="id7777292">Căn cứ vào nguồn thức ăn cacbon mà người ta chia vi sinh vật thành các nhóm sinh lý sau đây:</para>
+        <para id="id7777304">* Nhóm 1: Tự dưỡng</para>
+        <para id="id7777314">- Tự dưỡng quang năng. Nguồn C là CO2, nguồn năng lượng là ánh sáng.</para>
+        <para id="id7777333">- Tự dưỡng hoá năng. Nguồn C là CO2, nguồn năng lượng là một số hợp chất vô cơ đơn giản.</para>
+        <para id="id7777354">* Nhóm 2: Dị dưỡng</para>
+        <para id="id7777363">- Dị dưỡng quang năng</para>
+        <para id="id7777373">Nguồn C là chất hữu cơ ..., nguồn năng lượng là ánh sáng, ví dụ ở vi khuẩn không lưu huỳnh màu tía.</para>
+        <para id="id7777385">- Dị dưỡng hoá năng:</para>
+        <para id="id7777395">Nguồn C là chất hữu cơ, nguồn năng lượng là từ sự chuyển hoá trao đổi chất của chất nguyên sinh của một cơ thể khác. Ví dụ ở động vật nguyên sinh, nấm, một số vi khuẩn.</para>
+        <para id="id7777411">- Hoại sinh:</para>
+        <para id="id7777416">Nguồn C là chất hữu cơ. Nguồn năng lượng là từ sự trao đổi chất của chất nguyên sinh các xác hữu cơ. Ví dụ ở nhiều nấm, vi khuẩn.</para>
+        <para id="id7777431">- Ký sinh :</para>
+        <para id="id7777436">Nguồn C là chất hữu cơ. Nguồn năng lượng là lấy từ các tổ chức hoặc dịch thể của một cơ thể sống. Ví dụ các vi sinh vật gây bệnh cho người, động vật, thực vật.</para>
+        <para id="id7777452">Như vậy là tuỳ nhóm vi sinh vật mà nguồn cacbon được cung cấp có thể là chất vô cơ (CO2, NaHCO3, CaCO3 ...) hoặc chất hữu cơ. Giá trị dinh dưỡng và khả năng hấp thụ các nguồn thức ăn cacbon khác nhau phụ thuộc vào 2 yếu tố : một là thành phần hoá học và tính chất sinh lý của nguồn thức ăn này, hai là đặc điểm sinh lý của từng loại vi sinh vật. Trên thế giới hầu như không có hợp chất cacbon hữu cơ nào mà không bị hoặc nhóm vi sinh vật này hoặc nhóm vi sinh vật khác phân giải. Không ít vi sinh vật có thể đồng hóa được cả các hợp chất cacbon rất bền vững như cao su, chất dẻo, dầu mỏ, parafin, khí thiên nhiên. Ngay focmon là một hoá chất diệt khuẩn rất mạnh nhưng cũng có nhóm nấm sợi sử dụng làm thức ăn.</para>
+        <para id="id7777516">Nhiều chất hữu cơ vì không tan được trong nước hoặc vì có khối lượng phân tử quá lớn cho nên trước khi được hấp thụ, vi sinh vật phải tiết ra các enzim thuỷ phân (amilaza, xenlulaza, pectinaza, lipaza ...) để chuyển hoá chúng thành các hợp chất dễ hấp thụ (đường, axit amin, axit béo ...)</para>
+        <para id="id7777535">Người ta thường sử dụng đường để làm thức ăn cacbon khi nuôi cấy phần lớn các vi sinh vật dị dưỡng. Cần chú ý rằng đường đơn ở nhiệt độ cao có thể bị chuyển hoá thành loại hợp chất có màu tối gọi là đường cháy rất khó hấp thụ. Trong môi trường kiềm sau khi khử trùng đường còn dễ bị axit hoá và làm biến đổi pH môi trường. Để tránh các hiện tượng này khi khử trùng môi trường chứa đường người ta thường chỉ hấp ở áp lực 0,5 atm (112,50C) và duy trì trong 30 phút. Với các loại đường đơn tốt nhất là nên sử dụng phương pháp hấp gián đoạn (phương pháp Tyndal) hoặc lọc riêng dung dịch đường (thường dùng nồng độ 20%) bằng nến lọc hoặc màng lọc vi khuẩn sau đó mới dùng thao tác vô trùng để bổ sung vào các môi trường đã khử trùng.</para>
+        <para id="id7777574">Khi chế tạo các môi trường chứa tinh bột trước hết phải hồ hoá tinh bột ở nhiệt độ 60 - 700C sau đó đun sôi rồi mới đưa đi khử trùng ở nồi hấp áp lực.</para>
+        <para id="id7777598">Xenlulozơ được đưa vào các môi trường nuôi cấy vi sinh vật phân giải xenlulozơ dưới dạng giấy lọc, bông hoặc các loại bột xenlulozơ (cellulose powder, avicel ...)</para>
+        <para id="id7777613">Khi sử dụng lipit, parafin, dầu mỏ ... để làm nguồn cacbon nuôi cấy một số loại vi sinh vật phải thông khí mạnh để cho từng giọt nhỏ có thể tiếp xúc được với thành tế bào từng vi sinh vật.</para>
+        <para id="id7777630">Để nuôi cấy các loại vi sinh vật khác nhau người ta dùng các nồng độ đường không giống nhau. Với vi khuẩn, xạ khuẩn người ta thường dùng 0,5 - 0,2% đường còn đối với nấm men, nấm sợi lại thường dùng 3 - 10% đường.</para>
+        <para id="id7777643">Hầu hết vi sinh vật chỉ đồng hoá được các loại đường ở dạng đồng phân D. Cũng may là phần lớn các đồng phân của đường đơn trong tự nhiên đều là thuộc loại D chứ không phải loại L.</para>
+        <para id="id7777660">Các hợp chất hữu cơ chứa cả C và N (pepton, nước thịt, nước chiết ngô, nước chiết nấm men, nước chiết đại mạch, nước chiết giá đậu ...) có thể sử dụng vừa làm nguồn C vừa làm nguồn N đối với vi sinh vật.</para>
+        <para id="id7777677">Phạm vi đồng hoá các nguồn thức ăn cacbon của từng loài vi sinh vật cụ thể rất khác nhau. Có thực nghiệm cho thấy loài vi khuẩn Pseudomonas cepacia có thể đóng hoá trên 90 loại nguồn thức ăn cacbon khác nhau, trong khi đó các vi khuẩn sinh mêtan chỏ có thể đồng hoá được CO2 và vài loài hợp chất chứa 1C hoặc 2C mà thôi.</para>
+        <para id="id7777706">Với vi sinh vật dị dưỡng nguồn thức ăn cacbon làm cả hai chức năng : nguồn dinh dưỡng và nguồn năng lượng.</para>
+        <para id="id7777719">Một số vi khuẩn dị dưỡng, nhất là các vi khuẩn gây bệnh sống trong máu, trong các tổ chức hoặc trong ruột của người và động vật muốn sinh trưởng được ngoài nguồn cacbon hữu cơ còn cần phải được cung cấp một lượng nhỏ CO2 thì mới phát triển được.</para>
+        <para id="id7777747">Trong công nghiệp lên men nguồn rỉ đường là nguồn cacbon rẻ tiền và rất thích hợp sử dụng đối với nhiều loại vi sinh vật khác nhau.</para>
+        <para id="id7777761">Bảng 2.7. Thành phần hoá học của rỉ đường mía và rỉ đường củ cải</para>
+        <table id="id7777772" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Thành phấn</entry>
+                <entry>Tỷ lệ</entry>
+                <entry>Rỉ đường củ cải</entry>
+                <entry>Rỉ đường mía</entry>
+              </row>
+              <row>
+                <entry>Đường tổng số</entry>
+                <entry>%</entry>
+                <entry>48 - 52</entry>
+                <entry>48 - 56</entry>
+              </row>
+              <row>
+                <entry>Chất hữu cơ khác đường</entry>
+                <entry>%</entry>
+                <entry>12 - 17</entry>
+                <entry>9 - 12</entry>
+              </row>
+              <row>
+                <entry>Protein (N x 6,25)</entry>
+                <entry>%</entry>
+                <entry>6 - 10</entry>
+                <entry>2 - 4</entry>
+              </row>
+              <row>
+                <entry>Kali</entry>
+                <entry>%</entry>
+                <entry>2,0 - 7,0</entry>
+                <entry>1,5 - 5,0</entry>
+              </row>
+              <row>
+                <entry>Canxi </entry>
+                <entry>%</entry>
+                <entry>0,1 - 0,5</entry>
+                <entry>0,4 - 0,8</entry>
+              </row>
+              <row>
+                <entry>Magie </entry>
+                <entry>%</entry>
+                <entry>khoảng 0,09</entry>
+                <entry>khoảng 0,06</entry>
+              </row>
+              <row>
+                <entry>Photpho</entry>
+                <entry>%</entry>
+                <entry>0,02 - 0,07</entry>
+                <entry>0,6 - 2,0</entry>
+              </row>
+              <row>
+                <entry>Biotin </entry>
+                <entry>Mg/kg</entry>
+                <entry>0,02 - 0,15</entry>
+                <entry>1,0 - 3,0</entry>
+              </row>
+              <row>
+                <entry>Axit pantotenic </entry>
+                <entry>Mg/kg</entry>
+                <entry>50 - 110</entry>
+                <entry>15 -55</entry>
+              </row>
+              <row>
+                <entry>Inozitol</entry>
+                <entry>Mg/kg</entry>
+                <entry>5000 - 8000</entry>
+                <entry>2500 - 6000</entry>
+              </row>
+              <row>
+                <entry>Tiamin </entry>
+                <entry>Mg/kg</entry>
+                <entry>khoảng 1,3</entry>
+                <entry>khoảng 1,8</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id-619930067345">
+        <title>Nguồn thức ăn Nitơ của vi sinh vật</title>
+        <para id="id7778338">ureazaNguồn Nitơ dễ hấp thụ nhất đối với vi sinh vật là NH3 và NH4+. Trước đây có quan điểm cho rằng một số vi khuẩn không có khả năng đồng hoá muối amon. Quan điểm này không đúng. Ngày nay người ta cho rằng tất cả các loại vi sinh vật đều có khả năng sử dụng muối amon. Đôi khi có những loại vi sinh vật không phát triển được trên các môi trường chứa muối amon thì nguyên nhân không phải ở bản thân gốc NH4+ mà là ở độ chua sinh lý do các muối này tạo ra. Sau khi đồng hóa gốc NH4+ trong môi trường sẽ tích luỹ các anion vô cơ (SO42-, HPO42-, Cl- ...) và vì thế mà làm hạ thấp rất nhiều trị số pH của môi trường. Muối amon của các axit hữu cơ ít làm chua môi trường hơn do đó có lúc được sử dụng nhiều hơn (mặc dầu đắt hơn). Ure là nguồn thức ăn nitơ trung tính về mặt sinh lý. Khi bị phân giải bởi enzim ureaza, ure sẽ giải phóng thành NH3 và CO2. Phần NH3 được vi sinh vật sử dụng mà không làm chua môi trường như đối với các muối amon :</para>
+        <para id="id7778511">NH2 - CO - NH2 + H2O  2NH3 + CO2</para>
+        <para id="id7778584">Nhiều khi để nuôi cấy vi sinh vật bằng nguồn nitơ là ure người ta phải bổ sung thêm muối amon (như amon sunfat chẳng hạn). Sở dĩ như vậy là bởi vì phải có thức ăn nitơ dễ hấp thụ cho vi sinh vật phát triển đã thì mới có thể sản sinh ra được ureaza để thủy phân ure.</para>
+        <para id="id7778602">Cũng có loại vi sinh vật sở dĩ không phát triển được trên môi trường chỉ có nguồn thức ăn nitơ là muối amon không phải vì không đồng hoá được muối này mà là do chúng đòi hỏi phải được cung cấp thêm một vài loại axit amin không thay thế nào đó.</para>
+        <para id="id7778621">Muối nitrat là nguồn thức ăn nitơ thích hợp đối với nhiều loại tảo, nấm sợi và xạ khuẩn nhưng ít thích hợp đối với nhiều loại nấm men và vi khiẩn. Sau khi vi sinh vật sử dụng hết gốc NO3- các ion kim loại còn lại (K+, Na+, Mg2+ ...) sẽ làm kiểm hoá môi trường. Để tránh hiện tượng này người ta thường sử dụng muối NH4NO3 để làm nguồn nitơ cho nhiều loại vi sinh vật. Tuy nhiên gốc NH4+ thường bị hấp thụ nhanh hơn, rồi mới hấp thụ đến gốc NO3-.</para>
+        <para id="id7778728">Nguồn nitơ có dự trữ nhiều nhất trong tự nhiên là nguồn khí nitơ tự do (N2) trong khí quyển. Chúng chiếm tỷ lệ rất cao trong không khí (75,5% theo khối lượng hoặc 78,16% theo thể tích). Số lượng nitơ trong lớp khí quyển bên trên mỗi ha đất đai nhiều tới 85000 tấn, còn tổng số nitơ trong cả khí quyền là khoảng 4.000.000.000.000.000 tấn. Trong khí Nitơ (N2) hai nguyên tử N liên kết với nhau bằng 3 dây nối rất bền vững (N  N). Năng lượng của 3 dây nối này cao tới 225 kcal/M. Chính vì vậy mà N2 rất khó kết hợp với các nguyên tố khác và nitơ có rất nhiều chung quanh ta mà cả người, cả động vật lẫn cây trồng đều luôn luôn thiếu thốn thức ăn nitơ. Chẳng hạn ở nhà máy phân đạm hoá học, muốn làm cho N2 liên kết được với N2 để tạo thành NH3 người ta đã phải dùng một nhiệt độ là 5000C và một áp suất cao tới 350 atm.</para>
+        <para id="id7778837">Đa số vi sinh vật không có khả năng đồng hoá N2 trong không khí. Tuy nhiên có những vi sinh vật có thể chuyển hoá N2 thành NH3 nhờ hoạt động xúc tác của một hệ thống enzim có tên gọi là nitrogenaza. Người ta gọi các vi sinh vật này là vi sinh vật cố định nitơ (nitrogen - fixing microorganisms) còn quá trình này được gọi là quá trình cố định nitơ (nitrogen fixation). Chúng ta sẽ xem xét quá trình này ở một chương khác.</para>
+        <para id="id7778886">Vi sinh vật còn có khả năng đồng hoá rất tốt nitơ chứa trong các thức ăn hữu cơ. Các thức ăn này sẽ vừa là nguồn cacbon vừa là nguồn nitơ cung cấp cho vi sinh vật. Vi sinh vật không có khả năng hấp thụ trực tiếp các protein cao phân tử. Chỉ có các polipeptit chứa không quá 5 gốc axit amin mới có thể di truyền trực tiếp qua màng tế bào chất của vi sinh vật. Rất nhiều vi sinh vật có khả năng sản sinh proteaza xúc tác việc thuỷ phân protein thành các hợp chất phân tử thấp có khả năng xâm nhập vào tế bào vi sinh vật.</para>
+        <para id="id7778916">Nguồn nitơ hữu cơ thường được sử dụng để nuôi cấy vi sinh vật là pepton loại chế phẩm thuỷ phân không triệt để của một nguồn protein nào đấy. Chúng khác nhau về lượng chứa các loại polipeptit và lượng chứa axit amin tự do.</para>
+        <para id="id7778934">Về axit amin người ta nhận thấy có thể có ba quan hệ khác nhau đối với từng loại vi sinh vật. Có những loại vi sinh vật không cần đòi hỏi phải được cung cấp bất kỳ loại axit amin nào. Chúng có khả năng tổng hợp ra toàn bộ các axit amin mà chúng cần thiết từ NH4+ và các chất hữu cơ không chứa nitơ. Người ta gọi nhóm vi sinh vật này là nhóm tự dưỡng amin. Có những loại vi sinh vật ngược lại bắt buộc phải được cung cấp một hoặc nhiều axit amin mà chúng cần thiết. Chúng không có khả năng tự tổng hợp ra được các axit amin này. Người ta gọi chúng là nhóm dị dưỡng amin. Loại thứ ba là loại các vi sinh vật không có các axit amin trong môi trường vẫn phát triển được, nhưng nếu có mặt một số axit amin nào đó thì sự phát triển của chúng sẽ được tăng cường hơn nhiều.</para>
+        <para id="id7778987">Nhu cầu về axit amin của các loại vi sinh vật khác nhau là rất khác nhau. Trong khi các loài động vật khác nhau rất xa thường cũng chỉ có nhu cầu giống nhau về các axit amin thì giữa các loài vi sinh vật rất giống nhau về hình thái và rất gần nhau về vị trí phân loại lại có thể đòi hỏi rất khác nhau về các axit amin. Các axit amin mà cơ thể sinh vật đòi hỏi phải được cung cấp (cũng tức là các axit amin mà cơ thể sinh vật không tự tổng hợp được) gọi là các axit amin không thay thế. Danh sách các axit amin không thay thế đối với mỗi loài sinh vật được gọi là aminogram của loài ấy. Aminogram của vi sinh vật rất khác nhau. Nhiều loại vi khuẩn tuỳ thuộc nhóm dị dưỡng amin nhưng chỉ đòi hỏi 1 - 2 loại axit amin nào đó. Trong khi đó có loại vi sinh vật nếu không được cung cấp đầy đủ 17 - 18 loại axit amin thì không thể phát triển được. Không có các axit amin không thay thế chung cho tất cả các vi sinh vật. Cái là cần thiết với loại vi sinh vật này có thể là hoàn toàn không cần thiết đối với loại vi sinh vật khác.</para>
+        <para id="id7779026">Đối với đa số các loài vi khuẩn người ta thường nuôi cấy có thành phần như sau :</para>
+        <para id="id7779036">Pepton5g</para>
+        <para id="id7779044">Cao thịt3g</para>
+        <para id="id7779052">NaCl8g</para>
+        <para id="id7779060">Nước cất1000 ml</para>
+        <para id="id7779072">Nếu làm môi trường đặc thì bổ sung thêm 15 - 20g thạch (tuỳ theo chất lượng của thạch). </para>
+        <para id="id7779084">Tuy vậy có những vi sinh vật để nuôi cấy được ta phải chuẩn bị môi trường với rất nhiều thành phần khác nhau.</para>
+        <para id="id7779097">Các đồng phân axit amin dãy D thường không được vi sinh vật hấp thụ. Chúng thường manh tính độc tính đối với tế bào. Người ta biết các D - axit amin có thể có mặt trong một số loại chất kháng sinh (như gramixidin, polimixin, actonomixin ...). Chỉ có một số loại nấm mốc có chứa enzim raxemaza mới có khả năng chuyển hoá D - axit amin thành L -axit amin.</para>
+        <para id="id7779116">Để tìm hiểu mối quan hệ với axit amin của một chủng vi sinh vật nào đó trước hết người ta cấy chủng vi sinh vật này lên một môi trường dinh dưỡng có nguồn Nitơ duy nhất là muối amon. Nếu chúng phát triển được thì chứng tỏ chúng thuộc nhóm tự dưỡng amin. Nếu chúng không phát triển được và sau khi bổ sung hỗn dịch axit amin (dịch thuỷ phân cazein có trộn thêm triptophan) lại phát triển tốt chứng tỏ chúng thuộc nhóm dị dưỡng amin. Nếu bổ sung hỗn dịch axit amin rồi mà chúng vẫn không phát triển được thì phải tìm xem còn những nhu cầu nào khác chưa được đáp ứng (về nguồn cacbon, về vitamin, về chất khoáng, về pH, về thế ôxi hoá khử của môi trường).</para>
+        <para id="id7779144">Muốn biết rõ mối quan hệ của một chủng vi sinh vật với từng loại axit amin riêng biệt, người ta phải sử dụng những môi trường có chứa đầy đủ nguồn thức ăn cacbon, khoáng, vitamin (ở dạng hoá chất tinh khiết) nhưng không chứa axit amin. Lần lượt bổ sung từng loại axit amin vào môi trường và theo dõi ảnh hưởng của chúng đối với sự phát triển của chủng vi sinh vật này. Cũng có thể dựa vào môi trường một hỗn dịch đầy đủ các axit amin và các hỗn dịch đã loại bỏ mộ cách phân biệt từng axit amin một. Theo dõi sự phát triển của vi sinh vật sẽ xác định được nhu cầu của chúng đối với từng loại axit amin.</para>
+        <para id="id7779179">Kết quả thực nghiệm trình bày trong bảng dưới đây cho thấy trong số các vi sinh vật dị dưỡng amin tuỳ loài, thậm chí tuỳ từng typ khác nhau, mà có những mối quan hệ rất khác nhau đối với các axit amin.</para>
+        <para id="id7779196">Nói chung các vi khuẩn gây bệnh, vi khuẩn gây thối, vi khuẩn lactic (sống trong sữa) ... thường đòi hỏi phải được cung cấp nhiều axit amin có sẵn. Các loài vi khuẩn thường sống trong đất (Azotobacter, Clostridium pasteurianum, các vi khuẩn tự dưỡng hoá năng ...) có khả năng tự tổng hợp tất cả các axit amin cần thiết đối với chúng. Nấm mốc, nấm men và xạ khuẩn cũng thường không đòi hỏi các axit amin có sẵn. Tuy nhiên sự có mặt của các axit amin trong môi trường sẽ làm nâng cao tốc độ phát triển của chúng.</para>
+        <para id="id7779231">Bảng 2.8. Mối quan hệ của VSV với các axit amin khác nhau</para>
+        <table id="id7779238" summary="">
+          <tgroup cols="8">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <tbody>
+              <row>
+                <entry>Loại axit amin</entry>
+                <entrytbl namest="c2" nameend="c8" cols="6">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <colspec colnum="5" colname="c5"/>
+                  <colspec colnum="6" colname="c6"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c6">LOẠI SINH VẬT</entry>
+                    </row>
+                    <row>
+                      <entry>Động vật có vú</entry>
+                      <entry>Staphy-lococcus gây tan máu</entry>
+                      <entry>Lacto-bacterium casei</entry>
+                      <entry>Streptococcus faecalis</entry>
+                      <entrytbl cols="2">
+                        <colspec colnum="1" colname="c1"/>
+                        <colspec colnum="2" colname="c2"/>
+                        <tbody>
+                          <row>
+                            <entry namest="c1" nameend="c2">Corynebacterium diphtheria</entry>
+                          </row>
+                          <row>
+                            <entry>HY</entry>
+                            <entry>PW8</entry>
+                          </row>
+                        </tbody>
+                      </entrytbl>
+                      <entry>Staphy-tococcus aureus</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>Lizin </entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>(+)</entry>
+                <entry>+</entry>
+                <entry>-</entry>
+                <entry>-</entry>
+                <entry>-</entry>
+              </row>
+              <row>
+                <entry>Acginin </entry>
+                <entry>(+)</entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>-</entry>
+                <entry>-</entry>
+                <entry>-</entry>
+              </row>
+              <row>
+                <entry>Histidin </entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>(+)</entry>
+                <entry>-</entry>
+                <entry>+</entry>
+                <entry>-</entry>
+                <entry>-</entry>
+              </row>
+              <row>
+                <entry>Phenylatanin </entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>-</entry>
+                <entry>+</entry>
+                <entry>-</entry>
+                <entry>-</entry>
+              </row>
+              <row>
+                <entry>Tirozin </entry>
+                <entry>-</entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>(+)</entry>
+                <entry>-</entry>
+                <entry>-</entry>
+                <entry>-</entry>
+              </row>
+              <row>
+                <entry>Triptophan </entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>-</entry>
+                <entry>+</entry>
+              </row>
+              <row>
+                <entry>Prolin </entry>
+                <entry>-</entry>
+                <entry>+</entry>
+                <entry>-</entry>
+                <entry>-</entry>
+                <entry>-</entry>
+                <entry>-</entry>
+                <entry>-</entry>
+              </row>
+              <row>
+                <entry>Glixin </entry>
+                <entry>-</entry>
+                <entry>+</entry>
+                <entry>-</entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>-</entry>
+                <entry>-</entry>
+              </row>
+              <row>
+                <entry>Alanin </entry>
+                <entry>-</entry>
+                <entry>+</entry>
+                <entry>(+)</entry>
+                <entry>+</entry>
+                <entry>-</entry>
+                <entry>-</entry>
+                <entry>-</entry>
+              </row>
+              <row>
+                <entry>Valin </entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>-</entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>-</entry>
+              </row>
+              <row>
+                <entry>Lơxin </entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>-</entry>
+                <entry>+</entry>
+                <entry>-</entry>
+              </row>
+              <row>
+                <entry>Izolơxin </entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>(+)</entry>
+                <entry>+</entry>
+                <entry>-</entry>
+                <entry>-</entry>
+                <entry>-</entry>
+              </row>
+              <row>
+                <entry>Xerin </entry>
+                <entry>-</entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>-</entry>
+                <entry>-</entry>
+                <entry>-</entry>
+              </row>
+              <row>
+                <entry>Treonin </entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>(+)</entry>
+                <entry>+</entry>
+                <entry>-</entry>
+                <entry>-</entry>
+                <entry>-</entry>
+              </row>
+              <row>
+                <entry>Xixtein </entry>
+                <entry>-</entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>(+)</entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>-</entry>
+              </row>
+              <row>
+                <entry>Metionin </entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>(+)</entry>
+                <entry>-</entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>+</entry>
+              </row>
+              <row>
+                <entry>Axit asparaginic </entry>
+                <entry>-</entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>-</entry>
+                <entry>-</entry>
+                <entry>-</entry>
+              </row>
+              <row>
+                <entry>Axit glutamic </entry>
+                <entry>-</entry>
+                <entry>-</entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>+</entry>
+                <entry>-</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id8389034">Ghi chú :+ : Cần thiết</para>
+        <para id="id8389054">- : Không cần thiết</para>
+        <para id="id8389065">(+): Có tác dụng kích thích</para>
+        <para id="id8389076"/>
+        <para id="id8389080">Nhiều loại vi sinh vật có khả năng dùng một loại axit amin nào đó làm nguồn thức ăn nitơ duy nhất. Chúng sẽ phân giải axit amin này thành NH3 rồi sau đó tự tổng hợp nên hàng loạt các axit amin khác.</para>
+        <para id="id8389105">Có những chủng vi sinh vật biểu hiện mối quan hệ rất mật thiết giữa nồng độ của một axit amin nào đó trong môi trường và mức độ phát triển của chúng. Người ta gọi chúng là những vi sinh vật chỉ thị và dùng chúng trong việc định lượng axit amin.</para>
+      </section>
+      <section id="id-386032631063">
+        <title>Nguồn thức ăn khoáng của vi sinh vật</title>
+        <para id="id8389136">Khi sử dụng các môi trường thiên nhiên để nuôi cấy vi sinh vật người ta thường không cần thiết bổ sung các nguyên tố khoáng. Trong nguyên liệu dùng làm các môi trường này (khoai tây, nước thịt, sữa, huyết thanh, peptôn, giá đậu ...) thường có chứa đủ các nguyên tố khoáng cần thiết đối với vi sinh vật. Ngược lại khi làm các môi trường tổng hợp (dùng nguyên liệu là hoá chất) bắt buộc phải bổ sung đủ các nguyên tố khoáng cần thiết. Những nguyên tố khoáng mà vi sinh vật đòi hỏi phải được cung cấp với liều lượng lớn được gọi là các nguyên tố đại lượng. Còn những nguyên tố khoảng mà vi sinh vật chỉ đòi hỏi với những liều lượng rất nhỏ được gọi là các nguyên tố vi lượng.</para>
+        <para id="id8389174">Nồng độ cần thiết của từng nguyên tố vi lượng trong môi trường thường chỉ vào khoản 10-6 - 10-8M.</para>
+        <para id="id8389203">Hàm lượng các chất khoáng chứa trong nguyên sinh chất vi sinh vật thường thay đổi tuỳ loài, tuỳ giai đoạn phát triển và tuỳ điều kiện nuôi cấy. Thành phần khoáng của tế bào các loài vi sinh vật khác nhau thường là chênh lệch nhau rất nhiều. Chẳng hạn có nghiên cúư (Mesrobiana và Peuneska, 1963) cho biết thành phần khoáng ở một số vi khuẩn gây bệnh như sau (% chất khoáng) :</para>
+        <para id="id8389222">P2O54,93 - 74,38Na2O0,2 - 28,08</para>
+        <para id="id8389264">K2O2,4 - 39,8Cl0,03 - 43,69</para>
+        <para id="id8389291">SO30,5 - 28,8MgO0,12 - 12,0</para>
+        <para id="id8389316">CaO0,3 - 14,0</para>
+        <para id="id8389325">Nhu cầu của vi sinh vật cũng không giống nhau đối với tuỳ loài, tuỳ giai đoạn phát triển. Người ta nhận thấy nồng độ cần thiết về các muối khoáng đối với vi khuẩn, nấm và xạ khuẩn thường thay đổi trong các phạm vi sau đây :</para>
+        <para id="id8389343"/>
+        <para id="id8389347">Bảng 2.9. Nồng độ cần thiết về muối khoáng của vi sinh vật</para>
+        <table id="id8389357" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Muối khoáng</entry>
+                <entrytbl namest="c2" nameend="c3" cols="2">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c2">Nồng độ cần thiết (g/l)</entry>
+                    </row>
+                    <row>
+                      <entry>Đối với vi khuẩn</entry>
+                      <entry>Đối với nấm và xạ khuẩn</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>K2HPO4</entry>
+                <entry>0,2 - 0,5 </entry>
+                <entry>1 - 2</entry>
+              </row>
+              <row>
+                <entry>KH2PO4</entry>
+                <entry>0,2 - 0,5 </entry>
+                <entry>1 - 2</entry>
+              </row>
+              <row>
+                <entry>MgSO4. 7H2O</entry>
+                <entry>0,1 - 0,2</entry>
+                <entry>0,2 - 0,5</entry>
+              </row>
+              <row>
+                <entry>MnSO4. 4H2O</entry>
+                <entry>0,005 - 0,01</entry>
+                <entry>0,02 - 0,1</entry>
+              </row>
+              <row>
+                <entry>FeSO4. 7H2O</entry>
+                <entry>0,005 - 0,01</entry>
+                <entry>0,05 - 0,02</entry>
+              </row>
+              <row>
+                <entry>Na2MO4</entry>
+                <entry>0,001 - 0,05</entry>
+                <entry>0,01 - 0,02</entry>
+              </row>
+              <row>
+                <entry>ZnSO4 . 7H2O</entry>
+                <entry>-</entry>
+                <entry>0,02 - 0,1</entry>
+              </row>
+              <row>
+                <entry>CoCl2</entry>
+                <entry>tới 0,03</entry>
+                <entry>tới 0,06</entry>
+              </row>
+              <row>
+                <entry>CaCl2</entry>
+                <entry>0,01 - 0,03</entry>
+                <entry>0,02 - 0,1</entry>
+              </row>
+              <row>
+                <entry>CaSO4. 5H2O</entry>
+                <entry>0,001 - 0,005</entry>
+                <entry>0,01 - 0,05</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id8389944">Thành phần môi trường có thể thay đổi tuỳ theo một sự tính toán nào đó để sao cho nồng độ chung của mỗi cation hoặc mỗi anion phù hợp với số lượng đã nêu lên trong bảng nói trên.</para>
+        <para id="id8389961">- P bao giờ cũng chiếm tỷ lệ cao nhất trong số các nguyên tố khoáng của tế bào vi sinh vật (nhiều khi P chiếm đến 50% so với tổng số chất khoáng). P có mặt trong cấu tạo của nhiều thành phần quan trọng của tế bào (axit nucleic, photphoprotein, photpholipit, nhiều coenzim quan trọng như ADP, ATP, UDP, UTP, XDP, XTP, NAD, NADP, Flavin ... ; một số vitamin như tiamin, biotin ...) Để đảm bảo nguồn dinh dưỡng photpho, người ta thường sử dụng các loại photphat vô cơ. Việc bổ sung photphat (nhất là photphat kali) vào các môi trường dinh dưỡng ngoài tác dụng cung cấp P còn có tác dụng tạo ra tính đệm của môi trường. Với các tỷ lệ thích hợp hỗn hợp muối KH2PO4 và K2HPO4 có thể tạo ra những mức pH ổn định trong khoảng pH = 4,5 - 8,0 trong môi trường axit K2HPO4 sẽ tạo ra ion H+ :</para>
+        <para id="id8390060">HPO42- + H2O H2PO4- + OH-</para>
+        <para id="id8390155">H2PO4- HPO42- + H+</para>
+        <para id="id8390242">- S cũng là một nguyên tố khoáng quan trọng trong tế bào vi sinh vật. S cómặt trong một số axit amin (xixtin, xixtein, metionin), một số vitamin (biton, tiamin ...). xixtin, xixtein và một tripeptit là glutation không những tham gia vào cấu trúc protein mà còn có vai trò quan trọng trong các quá trình oxi hoá khử. Việc chuyển nhóm sunphidrin thành nhóm disunphit có vai trò rất lớn trong quá trình chuyển điện tử từ nguyên liệu hô hấp đến oxi phân tử.</para>
+        <para id="id8390261">2RSH RS - SR + 2H</para>
+        <para id="id8390308">Các hợp chất hữu cơ có chứa lưu huỳnh ở dạng oxi hoá thường có tác dụng độc đối với tế bào vi sinh vật (có thể kể tới trường hợp streptoxit và các sunphamit khác). Trong khi đó các muối sunphat vô cơ với nguyên tử lưu huỳnh cũng ở trạng thái oxi hoá thì lại được cơ thể vi sinh vật đồng hoá rất tốt. Một số vi sinh vật có thể dùng cả S2O32- (tiosunphat) làm nguồn thức ăn lưu huỳnh. Một số vi sinh vật khác lại đòi hỏi các thức ăn chứa lưu huỳnh ở dạng khử (H2S, xixtin, xixtein ...)</para>
+        <para id="id8390361">- Fe là nguyên tố rất cần thiết để giúp vi sinh vật có thể tổng hợp một số men loại pocphirin chứa sắt (như xitocrom, xitocromoxidaza, peroxidaza, catataza ...). Nguyên tử nitơ của 4 nhân piron nhờ các liên kết hoá học thông thường là các liên jết hoá học phụ. Một số vi sinh vật tự dưỡng quang năng còn sử dụng sắt để tổng hợp ra các sắc tố quang hợp có cấu trúc pocphirin (clorophin, bacterioclorophin).</para>
+        <para id="id8390380">- Mg là nguyên tố được vi sinh vật đòi hỏi cũng với lượng khá cao (10-3 - 10-4M). Mg mang tính chất một cofacto, chúng tham gia vào nhiều phản ứng enzim có liên quan đến các quá trình photphoryl hoá (chuyển H3PO4 từ một hợp chất hữu cơ này sang một hợp chất hữu cơ khác). Mg2+ có thể làm hoạt hoá các hexokinaza, ATP-aza, pirophotphataza, photphopheraza, transaxetylaza, photphoglucomutaza, cacboxylaza, enolaza, các men trao đổi protein, các men oxi hoá khử của chu trình Krebs (tất cả khoảng trên 80 enzim khác nhau). Mg2+ còn có vai trò quan trọng trong việc làm liên kết các tiểu phần riboxom với nhau.</para>
+        <para id="id8390462">- Ca mặc dầu là nguyên tố ít tham gia vào việc xây dựng nên các hợp chất hữu cơ nhưng nó có vai trò đáng kể trong việc xây dựng các cấu trúc tinh vi của tế bào. Canxi đóng vai trò cầu nối trung gian giữa nhiều thành phần quan trọng của tế bào sống (như giữa ADN và protein trong nhân, giữa các nucleotit với nhau, giữa ARN và protein trong riboxom). Canxi rất cần thiết đối với việc hình thành các cấu trúc không gian ổn định của nhiều bào quan như riboxom, ti thể, nhân ...</para>
+        <para id="id8390481">- Zn cũng là một cofacto tham gia vào nhiều quá trình enzim. Zn có tác dụng đáng kể trong việc hoạt hoá các enzim như cacboanhidraza, enolaza, photphataza kiềm, pirôphtphataza, lơxitinaza ..</para>
+        <para id="id8390497">- Mn có chứa trong một số enzim hô hấp. Mn cũng có vai trò quan trọng trong việc làm hoạt hoá một số enzim như photphomonoesteraza, cacboxylaza, ATP-aza, hidroxylamin reductaza, acginaza, aminopeptidaza, enolaza, photphoglucomutaza ...</para>
+        <para id="id8390514">Việc hoạt hoá các enzim không phải lúc nào cũng mang tính chất đặc hiệu. Lấy ví dụ như enzim izoxitratliaza (tách từ vi khuẩn Pseudomonas aeruginosa) có thể được hoạt hoá bởi nhiều ion khác nhau (Mg2+, Mn2+, Fe2+ hoặc Co2+). Có trường hợp một ion kim loại này lại có tác dụng đối với một ion kim loại khác. Chẳng hạn ion Na+ có thể làm ức chế sự phát triển của vi khuẩn Lactobacillus casei nhưng tác dụng ức chế này có thể bị mất đi nếu bổ sung thêm vào môi trường các ion K+ chắc rằng đã có sự cạnh tranh giữa hai ion này trong việc liên kết với các enzim hoặc coenzim.</para>
+        <para id="id8390604">Cũng có những nguyên tố hoá học ta chưa hiểu rõ về vai trò sinh lý của chúng. Trong số các nguyên tố này phải kể đến Kali.</para>
+        <para id="id8390618">- K là nguyên tố chiếm một tỷ lệ khá cao trong thành phần khoáng của tế bào vi sinh vật, nhưng cho đến nay người ta chưa thấy Kali tham gia vào bất kỳ thành phần nào của nguyên sinh chất, cũng chưa tìm thấy bất kỳ enzim nào có chứa K. Người ta nhận thấy Kali thường tồn tại trong dạng ion K+ ở mặt ngoài cấu trúc tế bào. Kali làm tăng độ ngậm nước của các hệ thống keo do đó ảnh hưởng đến các quá trình trao đổi chất, nhất là các quá trình tổng hợp. Kali có thể còn tham gia vào quá trình tổng hợp một số vitamin (như tiamin ...) và có những ảnh hưởng đáng kể đến quá trình hô hấp của tế bào vi sinh vật.</para>
+        <para id="id8390655">- Na và Cl cũng là các nguyên tố mà nhiều vi sinh vật đòi hỏi với lượng không nhỏ, nhưng cho đến nay người ta vẫn còn biết rất ít về vai trò sinh lý của chúng. Hàm lượng Na và Cl đặc biệt cao trong tế bào các vi sinh vật ưa mặn sống trong nước biển, đất vùng ven biển hoặc sống trên các loại thực phẩm ướp mặn. Các vi sinh vật có thể được chia thành 3 nhóm : nhóm ưa mặn, thích hợp phát triển trên môi trường chứa 2 - 5% (khối lượng : thể tích) NaCl, nhóm ưa mặn vừa, thích hợp phát triển trên môi trường chứa 5 - 20% NaCl và nhóm ưa mặn cao, thích hợp phát triển trên môi trường chứa đến 20 - 30% NaCl.</para>
+        <para id="id8390690">Bình thường khi nuôi cấy vi sinh vật, người ta không cần bổ sung các nguyên tố vi lượng. Những nguyên tố này thường có sẵn trong nước máy, trong các hoá chất dùng làm môi trường hoặc có lẫn ngay trong thuỷ tinh của các dụng cụ nuôi cấy. Trong một số trường hợp cụ thể người ta phải bổ sung các nguyên tố vi lượng vào môi trường nuôi cấy vi sinh vật. Chẳng hạn bổ sung Zn vào các môi trường nuôi cấy nấm mốc, bổ sung Co vào các môi trường nuôi cấy vi sinh vật tổng hợp vitamin B12, bổ sung B và Mo vào môi trường nuôi cấy các vi sinh vật cố định đạm ...</para>
+        <para id="id8390730">Sự tồn tại một cách dư thừa các nguyên tố khoáng là không cần thiết và có thể dẫn đến những ảnh hưởng xấu. Chẳng hạn việc thừa P có thể làm giảm thấp hiệu suất tích luỹ một số chất kháng sinh, thừa Fe sẽ làm cản trở quá trình tích luỹ vitamin B2 hoặc vitamin B12.</para>
+      </section>
+      <section id="id-685874558449">
+        <title>Nhu cầu về chất sinh trưởng của vi sinh vật</title>
+        <para id="id8390779">Vấn đề một số vi sinh vật muốn phát triển cần phải được cung cấp những chất sinh trưởng nào đó thật ra đã được L. Pasteur phát hiện từ khoảng các năm 1859 - 1864. Pasteur nuôi cấy vi sinh vật trên các môi trường chứa thức ăn cacbon (đường, rượu, axit hữu cơ), muối amon và một số muối khoáng khác. Ông nhận thấy vi sinh vật phát triển rất yếu. Nhưng nếu bổ sung thêm một ít nước chiết các nguyên liệu thiên nhiên vào các môi trường nói trên thì sự phát triển của vi sinh vật sẽ tăng lên rất nhiều.</para>
+        <para id="id8390809">Về bản chất thì hiện nay ta đã xác định được phần lớn các vitamin là những thành phần của coenzim. Những hợp chất hữu cơ có bản chất phi protein tham gia vào những biến đổi do enzim xúc tác với tính chất là những yếu tố phù hợp không thể thiếu được.</para>
+        <para id="id8390826">Tuy nhiên, khái niệm «chất sinh trưởng» đối với vi sinh vật không hoàn toàn giống như khái niệm «vitamin» đối với cơ thể người và động vật. Đối với vi sinh vật thì chất sinh trưởng là một khái niệm rất linh động. Nó chỉ có ý nghĩa là những chất hữu cơ cần thiết đối với hoạt động sống mà một loại vi sinh vật nào đó không tự tổng hợp được ra chúng từ các chất khác.</para>
+        <para id="id8390882">Tuỳ thuộc vào khả năng sinh tổng hợp của từng loài vi sinh vật mà cùng một chất có thể là hoàn toàn không cần thiết (nếu vi sinh vật này tự tổng hợp nó) có thể là có tác dụng kích thích sinh trưởng (nếu vi sinh vật nào tự tổng hợp được nhưng nhanh chóng tiêu thụ hết) hoặc có thể là rất cần thiết đối với quá trình sinh trưởng phát triển, giống như là trường hợp các vitamin đối với người và động vật (nếu vi sinh vật này hoàn toàn không có khả năng tự tổng hợp được ra nó).</para>
+        <para id="id8390910">Như vậy là những chất được coi là chất sinh trưởng của loại vi sinh vật này hoàn toàn có thể không phải là chất sinh trưởng đối với một loại vi sinh vật khác. Hầu như không có chất nào là chất sinh trưởng chung đối với tất cả các loại vi sinh vật.</para>
+        <para id="id8390928">Đặc điểm của môi trường sống một mặt ảnh hưởng đến khả năng tổng hợp chất sinh trưởng của vi sinh vật, mặt khác ảnh hưởng đến đặc điểm trao đổi chất của chúng. Chính thông qua các ảnh hưởng này mà môi trường sống của từng loại vi sinh vật đã góp phần quyết định nhu cầu của chúng về các chất sinh trưởng. Khi sống lâu dài trong các môi trường thiếu các chất sinh trưởng, vi sinh vật sẽ dần dần tạo ra được khả năng tự tổng hợp các chất sinh trưởng mà chúng cần thiết. Mặt khác do sống trong các điều kiện môi trường khác nhau, các loại vi sinh vật sẽ có thể có những kiểu trao đổi chất khác nhau cũng có nghĩa là đòi hỏi các hệ thống enzim khác nhau (do đó đòi hỏi các chất sinh trưởng khác nhau). Việc một loại vi sinh vật không đòi hỏi một chất sinh trưởng nào đó có thể do hai nguyên nhân : một là vi sinh vật này không tự tổng hợp ra được chất sinh trưởng đó, hai là trong quá trình trao đổi chất của loại vi sinh vật này không có sự tham gia của loại coenzim chứa chất sinh trưởng đó.</para>
+        <para id="id8390980">Cùng một loài sinh vật nhưng nếu nuôi cáy trong các điều kiện khác nhau cũng có thể có những nhu cầu khác nhau về chất sinh trưởng. Chẳng hạn nấm mốc Mucor rouxii được chứng minh là chỉ cần biotin và tiamin khi phát triển trong điều kiện kị khí. Khi nuôi cấy trong điều kiện hiếu khí, chúng sẽ tự tổng hợp ra được các chất sinh trưởng này. Điều kiện pH và nhiệt độ của môi trường nhiều khi cũng ảnh hưởng rõ rệt đến nhu cầu và chất sinh trưởng của vi sinh vật. Sự có mặt của một số chất dinh dưỡng có khi cũng ảnh hưởng đến nhu cầu và chất sinh trưởng của vi sinh vật. Chẳng hạn việc đòi hỏi axit pantotenic của một số vi sinh vật (ví dụ vi khuẩn bạch hầu Corynebacterium diphtheriae) có thể thoả mãn khi chỉ cần cung cấp cho chúng -alanin. Chúng có thể tự tổng hợp được axit pnatonic mà như chúng ta đã biết axit pnatotenic cấu tạo từ axit pnatonic và  -alanin. </para>
+        <para id="id8391054">Những sinh vật nào có thể tự túc về mặt chất sinh trưởng được gọi là các vi sinh vật «tự dưỡng chất sinh trưởng», còn ngược lại những vi sinh vật đòi hỏi phải được cunh cấp một hoặc nhiều chất sinh trưởng được gọi là các vi sinh vật «dị dưỡng chất sinh trưởng». Hoặc có thể dùng thêm một khái niệm khác là : Tất cả các vi sinh vật dị dưỡng amin và dị dưỡng chất sinh trưởng được xếp chung vào nhóm « dinh dưỡng chất sinh trưởng » còn tất cả các vi sinh vật có thể phát triển được mà không cần đòi hỏi bất kỳ một axit amin hoặc một chất sinh trưởng nào thì được xếp vào nhóm «nguyên sinh dưỡng».</para>
+        <para id="id8391092">Thông thường các chất được coi là chất sinh trưởng đối với một loại nào đó có thể thuộc về một trong các loại sau đây : các gốc kiềm purin, pirimidin và các dẫn xuất của chúng, các axit béo và các thành phần của màng tế bào, các vitamin thông thường ...</para>
+      </section>
+    </section>
+    <section id="id-436834645555">
+      <title>Các kiểu dinh dưỡng ở vi sinh vật</title>
+      <para id="id8391124">Vi sinh vật có thể sử dụng các nguồn cơ chất rất khác nhau để tồn tại và phát triển. Bởi vậy có rất nhiều kiểu dinh dưỡng khác nhau dựa vào nguồn chất dinh dưỡng hoặc dựa vào kiểu trao đổi năng lượng.</para>
+      <section id="id-120997300385">
+        <title>Dựa vào nguồn chất dinh dưỡng</title>
+        <para id="id8391152">+ Nguồn dinh dưỡng cacbon </para>
+        <para id="id8391162">a. Tự dưỡng cacbon :</para>
+        <para id="id8391178">Các vi sinh vật thuộc kiểu dinh dưỡng này có khả năng đồng hoá CO2 hoặc các muối cacbonat để tạo nên các hợp chất cacbon hữu cơ của cơ thể. Một số loài như vi khuẩn nitrat hoá chỉ có thể sống trên nguồn cacbpn vô cơ là CO2 hoặc muối cacbonat gọi là tự dưỡng bắt buộc. Một số có khả năng sống trên nguồn cacbon vô cơ hoặc hữu cơ gọi là tự dưỡng không bắt buộc.</para>
+        <para id="id8391219">b. Dị dưỡng cacbon </para>
+        <para id="id8391236">Các vi sinh vật thuộc kiểu dinh dưỡng này không có khả năng đồng hoá các hợp chất cacbon vô cơ như CO2, muối cacbonat. Nguồn dinh dưỡng cacbon bắt buộc đối với chúng phải là các hợp chất hữu cơ, thường là các loại đường đơn.</para>
+        <para id="id8391262">Nhóm này lại được chia làm 2 nhóm dựa vào nhu cầu các chất hữu cơ : nhóm Protptroph chỉ yêu cầu một nguồn đường duy nhất và các loại muối khoáng. Nhóm Auxotroph ngoài đường và các loại muối khoáng còn đòi hỏi các chất sinh trưởng nhất định như vitamin, axit amin hay các bazơ purin hoặc purimidin.</para>
+        <para id="id8391281">+ Nguồn dinh dưỡng nitơ :</para>
+        <para id="id8391290">c. Tự dưỡng amin</para>
+        <para id="id8391302">Các vi sinh vật thuộc nhóm tự dưỡng amin có khả năng tự tổng hợp các axit amin của cơ thể từ các nguồn nitơ vô cơ hoặc hữu cơ, các muối amon của axit hữu cơ thích hợp hơn muối amôn của axit vô cơ. Vì ở các muối amôn vô cơ, sau khi phần NH4+ được vi sinh vật hấp thụ, phần anion còn lại như SO42-, Cl- sẽ kết hợp với ion H+ có trong môi trường tạo thành các axit làm cho pH môi trường giảm xuống. Thuộc nhóm tự dưỡng amin bao gồm một số nhóm như nhóm vi khuẩn cố định nitơ, nhóm vi khuẩn amôn hoá, nitrat hoá v.v...</para>
+        <para id="id8391374">d. Dị dưỡng amin</para>
+        <para id="id8391386">Các vi sinh vật thuộc kiểu dinh dưỡng này không có khả năng tự tổng hợp các axit amin cho cơ thể mà phải hấp thụ các axit amin có sẵn từ môi trường. Thuộc nhóm này gồm có các vi khuẩn ký sinh và các vi khuẩn gây thối háo khí. Chúng có khả năng tiết ra men poteaza để phân huỷ phân tử protein thành các axit amin rồi hấp thụ vào tế bào.</para>
+      </section>
+      <section id="id-525010414666">
+        <title>Dựa vào nguồn năng lượng</title>
+        <para id="id8391419">Dựa vào nguồn năng lượng người ta còn chia các kiểu dinh dưỡng của vi sinh vật ra các loại sau :</para>
+        <para id="id8391432">+ Dinh dưỡng quang năng (quang dưỡng)</para>
+        <para id="id8391442">Vi sinh vật thuộc nhóm này có khả năng sử dụng trực tiếp năng lượng của ánh sáng mặt trời. Thuộc nhóm này lại có 2 nhóm nhỏ :</para>
+        <para id="id8391456">a. Dinh dưỡng quang năng vô cơ : còn gọi là tự dưỡng quang năng. Vi sinh vật thuộc nhóm này có khả năng dùng các chất vô cơ ngoại bào để làm nguồn cung cấp electron cho quá trình tạo năng lượng của tế bào. Thuộc nhóm này bao gồm các loại vi khuẩn lưu huỳnh. Chúng sử dụng các hợp chất lưu huỳnh làm nguồn cung cấp electron trong các phản ứng tạo thành ATP của cơ thể.</para>
+        <para id="id8391474">b. Dinh dưỡng quang năng hữu cơ :</para>
+        <para id="id8391484">Vi sinh vật thuộc nhóm này có khả năng dùng các chất hữu cơ làm nguồn cung cấp eletron cho quá trình hình thành ATP của tế bào.</para>
+        <para id="id8391498">Vi sinh vật thuộc cả 2 nhóm trên đều có sắc tố quang hợp, chính nhờ sắc tố quang hợp mà vi sinh vật thuộc nhóm này có khả năng hấp thu năng lượng mặt trời, chuyển hoá thành năng lượng hoá học tích luỹ trong phân tử ATP. Sắc tố quang hợp ở vi khuẩn không phải clorofil như ở cây xanh mà bao gồm nhiều loại khác nhau như Bacterilchlorifil a, b, c, d ... mỗi loại có một phổ hấp thụ ánh sáng riêng.</para>
+        <para id="id8391517">+ Dinh dưỡng hoá năng (hoá dưỡng)</para>
+        <para id="id8391527">Vi sinh vật thuộc kiểu dinh dưỡng hoá năng có khả năng sử dụng năng lượng chứa trong các hợp chất hoá học có trong môi trường để tạo thành nguồn năng lượng của bản thân.</para>
+        <para id="id8391542">c. Dinh dưỡng hoá năng vô cơ</para>
+        <para id="id8391552">Vi sinh vật thuộc kiểu dinh dưỡng hoá năng vô cơ còn gọi là nhóm tự dưỡng hoá năng.</para>
+        <para id="id8391564">Nó có khả năng sử dụng năng lượng sinh ra trong quá trình ôxy hoá một chất vô cơ nào đó để đồng hóa CO2 trong không khí tạo thành các chất hữu cơ của tế bào. Trong trường hợp này chất cho eletron là chất vô cơ, chất nhận eletron là oxy hoặc một chất vô cơ khác.</para>
+        <para id="id8391592">Trong số các vi khuẩn háo khí thuộc nhóm này có Nitrosomonas, Nitrobacter, Thiobacillus ..., vi khuẩn kị khí gồm có : Thiobacillus denitrificant, Micrococcus denitroficans ...</para>
+        <para id="id8391617">d. Dinh dưỡng hoá năng hữu cơ</para>
+        <para id="id8391627">Vi sinh vật thuộc kiểu dinh dưỡng này còn gọi là nhóm dị dưỡng hoá năng. Chúng sử dụng hợp chất hữu cơ trong môi trường làm cơ chất oxy hoá sinh năng lượng. Trong trường hợp này, chất cho eletron là chất hữu cơ. Chất nhận eletron oả những vi sinh vật háo khí là oxy, ở những vi sinh vật kỵ khí là chất hữu cơ hoặc vô cơ. Ở trường hợp chất nhận eletron là chất hữu cơ người ta thường gọi là quá trình lên men. Trường hợp chất nhận eletron là chất vô cơ người ta mới chỉ phát hiện ở 2 loại vi khuẩn : vi khuẩn phản natri hoá, chất nhận điện tử là NO3-, vi khuẩn phản sunfat hoá chất nhận điện tử là SO42-. Hai trường hợp này còn gọi là hô hấp nitrat và hô hấp sunfat.</para>
+        <para id="id8391689">Bảng 2.10. Các kiểu dinh dưỡng ở vi sinh vật</para>
+        <table id="id8391699" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Kiểu dinh dưỡng</entry>
+                <entry>Nguồn năng lượng</entry>
+                <entry>Nguồn cacbon chủ yếu</entry>
+                <entry>Ví dụ</entry>
+              </row>
+              <row>
+                <entry>1. Quang tự dưỡng</entry>
+                <entry>Ánh sáng</entry>
+                <entry>CO2</entry>
+                <entry>Tảo, các vi khuẩn quang hợp</entry>
+              </row>
+              <row>
+                <entry>2. Quang dị dưỡng</entry>
+                <entry>Ánh sáng</entry>
+                <entry>Chất hữu cơ</entry>
+                <entry>Vi khuẩn tía, vi khuẩn lục</entry>
+              </row>
+              <row>
+                <entry>3. Hoá tự dưỡng</entry>
+                <entry>Chất vô cơ (NH4+, NO2-, H2, H2S, Fe2+ ..)</entry>
+                <entry>CO2</entry>
+                <entry>Vi khuẩn nitrat hoá, vi khuẩn ôxi hoá lưu huỳnh, vi khuẩn hiđrô ...</entry>
+              </row>
+              <row>
+                <entry>4. Hoá dị dưỡng</entry>
+                <entry>Chất hữu cơ</entry>
+                <entry>Chất hữu cơ</entry>
+                <entry>Hầu hết vi sinh vật</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id8392044">2.1.4. Cơ chế vận chuyển thức ăn vào tế bào vi sinh vật</para>
+        <para id="id8392054">Trong quá trình sống vi sinh vật thường xuyên hấp thụ các chất dinh dưỡng từ môi trường và thải các sản phẩm trao đổi chất vào môi trường. Màng tế bào chất chính là nơi điều chỉnh sự ra vào của các chất khác nhau. Có hai cơ chế chính trong việc vận chuyển các chất qua màng.</para>
+        <para id="id8392073">1. Khuếch tán đơn giản:</para>
+        <para id="id8392083">Các chất đi qua màng theo cơ chế này dựa trên sự chênh lệch nồng độ hoặc sự chênh lệch điện thế giữa hai phía của màng. Sự khuếch tán này không cần đến năng lượng của tế bào. Chỉ có một số chất đi qua màng theo cơ chế này: nước, O2, CO2, axit béo và một số chất tan trong lipit.</para>
+        <para id="id8392120">2. Khuếch tán xúc tiến: Tức là vận chuyển nhờ Pecmeaza:</para>
+        <para id="id8392128">Theo cơ chế vận chuyển này, các chất đi qua màng phải được liên kết với phân tử vận chuyển gọi là Pecmeaza có bản chất protein. Có hai loại vận chuyển nhờ Pecmeaza:</para>
+        <para id="id8392143">a. Vận chuyển thụ động:</para>
+        <para id="id8392156">Kiểu vận chuyển này không tiêu tốn năng lượng của tế bào. Các chất hoà tan (S) liên kết thuận nghịch với phân từ Pecmeaza (P) thành phức hợp “chất hoà tan - Pecmeaza”, PS phức hợp này đi qua màng nhờ sự chênh lệch nồng độ của chất hoà tan đó. Kiểu vận chuyển này còn gọi là vận chuyển "xuôi dòng". Trong sự vận chuyển thụ động P được di động thuận nghịch hoặc ở dạng đơn độc (P) hoặc ở dạng phức hợp với S (PS), hướng di chuyển của S phụ thuộc vào nồng độ của S ở hai phía của màng.</para>
+        <para id="id8392186">b. Vận chuyển chủ động</para>
+        <para id="id8392198">Kiểu vận chuyển này cần có năng lượng của tế bào, nó diễn ra theo kiểu "ngược dòng"; Năng lượng tiêu thụ do ATP hình thành trong meazoxom hoặc tế bào chất cung cấp năng lượng để chuyển hoá nó. Một Pecmeaza có thể làm cả hai nhiệm vụ vận chuyển chủ động và vận chuyển thụ động, tuỳ theo sự có mặt hay vắng mặt của ATP. Trong sự vận chuyển chủ động có ATP cung cấp năng lượng P bị chuyển thành dạng Pi bất hoạt ở phía bên trong màng có ái lực rất thấp đối với S. Sau khi S được tách khỏi phức hợp PS và được chuyển vào tế bào chất Pi lại được chuyển thành P hoạt động ở phía ngoài của màng nhờ một phản ứng cung cấp năng lượng nào đó.</para>
+        <para id="id8392235">Phía trongMàngPhía ngoàiVận chuyển thụ độngVận chuyển chủ độngP: PecmeazaS: Chất được vận chuyểnPv: Phophat vô cơPi: Hoạt hoá lạiSS</para>
+        <para id="id8392811"> SP = PP PO</para>
+        <para id="id8392839">PSPS</para>
+        <para id="id8392853">ATPPip</para>
+        <para id="id8392868">Pv + ADP</para>
+        <para id="id8392876">S</para>
+        <para id="id8392882">Trong tế bào</para>
+        <para id="id8392911"/>
+        <figure id="id8392935">
+          <media id="id1171865686771" alt=""><image src="../../media/graphics1-4fb7.jpg" mime-type="image/jpeg" height="653" width="452"/></media>
+        </figure>
+        <para id="id8392964">Hình (a)Màng</para>
+        <para id="id8393018">Ngoài tế bào</para>
+        <para id="id8393046">Trong tế bào</para>
+        <para id="id8393075">Hình (b)Màng</para>
+        <para id="id8393128">Ngoài tế bào</para>
+        <para id="id8393176">Hình 2.1. Quá trình khuếch tán xúc tiến</para>
+        <para id="id8393181">Chú thích: Nồng độ chất cần vận chuyển ngoài tế bào ở hình (a) nhỏ hơn nhiều so với ở hình (b), nhưng do số lượng protein vận chuyển tương đối ổn định do đó hiệu suất vận chuyển như nhau.</para>
+        <figure id="id8393208">
+          <media id="id1171865679546" alt=""><image src="../../media/graphics2-10de.jpg" mime-type="image/jpeg" height="804" width="387"/></media>
+        </figure>
+        <para id="id8393237">Hình 2.2. Vi khuẩn sản sinh enzim phân giải các thức ăn hữu cơ cao phân tử</para>
+        <para id="id8393248">trước khi hấp thụ</para>
+        <para id="id8393257">Khuếch tán đơn giảnTrên màng</para>
+        <figure id="id8393329">
+          <media id="id1171865215997" alt=""><image src="../../media/graphics3-a047.jpg" mime-type="image/jpeg" height="720" width="582"/></media>
+        </figure>
+        <para id="id8393358">Hình 2.3. Bốn kiểu vận chuyển chất dinh dưỡng vào tế bào</para>
+        <para id="id8393368">Chú thích về kiều vận nhóm: khác với kiểu vận chuyển chủ động ở chỗ chất hoà tan trước và sau quá trình chuyển vận có biến đổi kết cấu (HPr - heat - stable carrier protein - protein vận chuyển bền nhiệt, PEP = photphoenolpiruvat, PA - axit piruvic)</para>
+      </section>
+    </section>
+    <section id="id-358894719574">
+      <title>TRAO ĐỔI CHẤT VÀ TRAO ĐỔI NĂNG LƯỢNG CỦA VI SINH VẬT</title>
+      <para id="id8393396">Trao đổi chất là quá trình hấp thu thức ăn từ môi trường vào cơ thể, chế biến nó thành các chất của cơ thể và thải các sản phẩm cuối cùng ra môi trường.</para>
+      <para id="id8393412">Quá trình hấp thu các chất dinh dưỡng gọi là quá trình dinh dưỡng. Quá trình chế biến các chất dinh dưỡng thành các chất của cơ thể gọi là quá trình đồng hoá. Quá trình phân huỷ các thành phần của cơ thể gọi là quá trình dị hoá. Quá trình oxy hoá các chất dinh dưỡng để tạo ra năng lượng được gọi là quá trình trao đổi năng lượng. Vì vi sinh vật không có mô dự trữ nên chúng phải oxy hoá trực tiếp các chất dinh dưỡng để tạo ra năng lượng.</para>
+      <para id="id8393430">Trao đổi chất và trao đổi năng lượng liên quan chặt chẽ với nhau. Cơ thể vi sinh vật muốn tạo ra năng lượng để hoạt động sống phải dựa vào nguồn dinh dưỡng được hấp thu do quá trình trao đổi chất. Quá trình trao đổi chất thực hiện được là nhờ vào năng lượng của tế bào.</para>
+      <para id="id8393449">Hai quá trình này có những đặc trưng riêng biệt tuỳ theo đặc điểm sống của từng nhóm vi sinh vật.</para>
+      <para id="id8393461">- Nhóm sinh dưỡng quang năng có khả năng sử dụng trực tiếp năng lượng của ánh sáng mặt trời để đồng hoá CO2 tạo thành chất hữu cơ của cơ thể.</para>
+      <para id="id8393485">- Nhóm dinh dưỡng hoá năng vô cơ sử dụng năng lượng sinh ra trong quá trình oxy hoá một chất vô cơ nào đó để đồng hoá CO2 trong không khí.</para>
+      <para id="id8393507">- Nhóm dinh dưỡng hoá năng hữu cơ sử dụng chất hữu cơ làm chất ôxy hoá sinh năng lượng.</para>
+      <para id="id8393520">Trong nhóm này, nhóm háo khí có quá trình ôxy hoá năng lượng kèm theo việc liên kết với ôxy của không khí.</para>
+      <para id="id8393532">Nguyên liệu xây dựngSinh khốiNguyên liệu năng lượngOxy không khíCác chất dinh dưỡnghữu cơ + H20H20CO2</para>
+      <para id="id8393816">Nhóm kị khí có quá trình ôxy hoá sinh năng lượng không kèm theo việc liên kết với ôxy của không khí (chất nhận điện tử không phải là oxy mà là một chất hữu cơ hoặc một chất vô cơ).</para>
+      <para id="id8393833">Trường hợp chất nhận điện tử là chất hữu cơ.</para>
+      <para id="id8393843">Nguyên liệu xây dựngSinh khốiNguyên liệu năng lượngCác chất dinh dưỡnghữu cơ + H20Các sản phẩm trao đổi chấtSinh khối</para>
+      <para id="id8394062"/>
+      <para id="id8394066">NO3N2SO4H2SHô hấp NitratHô hấp SulphatChất cho HydroTrường hợp chất nhận điện tử là chất vô cơ.</para>
+      <para id="id8394344"/>
+      <para id="id8394349">Năng lượng giải phóng ra từ các phản ứng oxy hoá trong các quá trình trên được giữ lại trong một số hợp chất giàu năng lượng của tế bào, phổ biến nhất là ATP. Năng lượng trong phân tử này được tích luỹ ở liên kết cao năng giữa P và O (Bởi vậy còn gọi là quá trình photphoryl hoá). Khi cần đến năng lượng, ATP được oxy hoá để giải phóng năng lượng.</para>
+      <para id="id8394367">Như trên là những khái niệm cơ bản nhất về các quá trình trao đổi chất và trao đổi năng lượng ở vi sinh vật. Để có được hai quá trình này phải có quá trình dinh dưỡng. Tất cả các quá trình trên là cơ sở vi sinh vật học của các quá trình chuyển hoá vật chất trong các môi trường tự nhiên. Nhờ sự chuyển hoá vật chất mà sự cân bằng vật chất được giữ vững. Từ đó có được sự cân bằng sinh thái trong môi trường tự nhiên.</para>
+      <para id="id8394386">Dị hoáĐồng hoá</para>
+      <para id="id8394438">Ánh sángChuyển động<figure id="id8394529"><media id="id1171866918140" alt=""><image src="../../media/graphics4-0e8f.jpg" mime-type="image/jpeg" height="438" width="564"/></media></figure></para>
+      <para id="id8394557">Oxy hoá các hợp chất hoá họcNhiệt</para>
+      <para id="id8394612">Hình 2.4. Biến dưỡng năng lượng ở vi khuẩn</para>
+      <para id="id8394621">Bảng 2.11. Các dạng chuyển hoá chính</para>
+      <table id="id8394627" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Chất cho Hydro</entry>
+              <entrytbl namest="c2" nameend="c4" cols="3">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <tbody>
+                  <row>
+                    <entry namest="c1" nameend="c3">Chất nhận Hydro</entry>
+                  </row>
+                  <row>
+                    <entry>Oxy</entry>
+                    <entry>Chất vô cơ</entry>
+                    <entry>Hợp chất hữu cơ</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry>Chất vô cơHoá dưỡng vô cơ</entry>
+              <entry>(Hô hấp)Nhóm 1Hoá dưỡng vô cơ hiếu khí</entry>
+              <entry>(Hô hấp hiếu khí)Nhóm 2Hoá dưỡng vô cơ yếm khí</entry>
+              <entry>(Lên men)</entry>
+            </row>
+            <row>
+              <entry>Chất hữu cơHoá dưỡng hữu cơ</entry>
+              <entry>Nhóm 3Hoá dưỡng hữu cơ hiếu khí</entry>
+              <entry>Nhóm 4Hoá dưỡng hữu cơ yếm khí</entry>
+              <entry>Nhóm 5Có khả năng lên men</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8434377">Bảng 2.12. Các dạng dinh dưỡng chính của vi sinh vật</para>
+      <table id="id8434386" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>CÁC DẠNG DINH DƯỠNG CHÍNH</entry>
+              <entry>NGUỒN NĂNG LƯỢNG HYDRO/ ĐIỆN TỬ, CACBON</entry>
+              <entry>VI SINH VẬT - ĐẠI DIỆN</entry>
+            </row>
+            <row>
+              <entry>Vi sinh vật tự dưỡng, quang hợp vô cơ</entry>
+              <entry>Năng lượng ánh sángChất vô cơ cho hydro/ điện tửNguồn cacbon là CO2</entry>
+              <entry>TảoVi khuẩn tía và lục sử dụng SVi khuẩn lam</entry>
+            </row>
+            <row>
+              <entry>Vi sinh vật dị dưỡng, quang hợp hữu cơ</entry>
+              <entry>Năng lượng ánh sángChất hữu cơ cho hydro/ điện tửNguồn cácbon hữu cơ (CO2 có thể được sử dụng)</entry>
+              <entry>Vi khuẩn tía không sử dụng được lưu huỳnhVi khuẩn lục không sử dụng được lưu huỳnh</entry>
+            </row>
+            <row>
+              <entry>Vi sinh vật tự dưỡng, hoá dưỡng vô cơ</entry>
+              <entry>Nguồn năng lượng hoá học (vô cơ)Chất vô cơ cho hydro/ điện tửNguồn cacbon là CO2</entry>
+              <entry>Vi khuẩn oxy hoá lưu huỳnhVi khuẩn oxy hoá hydroVi khuẩn nitrit hoáVi khuẩn sắt</entry>
+            </row>
+            <row>
+              <entry>Vi sinh vật tự dưỡng, hoá dưỡng hữu cơ</entry>
+              <entry>Nguồn năng lượng hoá học (hữu cơ)Chất hữu cơ cho hydro/ điện tửNguồn cacbon hữu cơ</entry>
+              <entry>Nguyên sinh động vậtMycètesĐa số các vi sinh vật không quang hợp</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id8434760">ẢNH HƯỞNG CÁC YẾU TỐ BÊN NGOÀI ĐẾN HOẠT ĐỘNG CỦA VI SINH VẬT</para>
+      <para id="id8434766">Trong quá trình phát triển và sinh sản vi sinh vật chịu tác động của nhiều yếu tố bên ngoài. Ta có thể chia sự tác động đó như sau:</para>
+      <para id="id8434780">- Ảnh hưởng các yếu tố lý học</para>
+      <para id="id8434790">- Ảnh hưởng các yếu tố hoá học</para>
+      <para id="id8434800">- Ảnh hưởng các yếu tố sinh học</para>
+      <section id="id-340379688245">
+        <title>Ảnh hưởng của những yếu tố lý học</title>
+        <para id="id8434817">Ảnh hưởng của nhiệt độ</para>
+        <para id="id8434826">Để phát triển mỗi một sinh vật phát triển trong một khoảng nhiệt độ nhất định. Ngoài khoảng nhiệt độ đó ra vi sinh vật sẽ bị hạn chế sự phát triển. Trong nhiều tài liệu cho thấy rằng nhiều vi sinh vật có thể phát triển trong khoảng nhiệt độ dài -180  1400C. Tuỳ theo mức độ chịu nhiệt của chúng mà người ta có một số khái niệm như sau:</para>
+        <para id="id8434874">- Nhiệt độ tối ưu: Là nhiệt độ ở đó vi sinh vật phát triển thuận lợi nhất.</para>
+        <para id="id8434890">- Nhiệt độ cao nhất: Là mức độ nhiệt độ giới hạn tối đa. Ở đó vi sinh vật vẫn phát triển nhưng hết sức chạm và yếu. Nếu quá giới hạn đó thì vi sinh vật sẽ bị tiêu diệt.</para>
+        <para id="id8434911">- Nhiệt độ thấp nhất: là mức độ nhiệt độ thấp mà vi sinh vật vẫn tồn tại, phát triển rất yếu. Nếu quá mức độ đó vi sinh vật sẽ bị tiêu diệt. Phần lớn vi sinh vật gây bệnh phát triển tốt ở nhiệt độ 35 - 370C. Một số nấm men và nấm mốc nuôi cấy trong phòng thí nghiệm phát triển tốt ở 26 - 320C.</para>
+        <para id="id8434953">Nhiệt độ thường gây cho vi sinh vật những chiều hướng sau. Đối với nhiệt độ thấp thường không gây chết vi sinh vật ngay mà nó tác động lên khả năng chuyển hoá các hợp chất, làm ức chế hoạt động của các hệ enzym, làm thay đổi khả năng trao đổi chất của chúng, vì thế làm vi sinh vật mất khả năng phát triển và sinh sản. Nhiều trường hợp vi sinh vật sẽ bị chết. Khả năng gây chết của chúng hết sức từ từ chứ không xảy ra đột ngột như ở nhiệt độ cao. Dựa vào đặc tính này mà người ta tiến hành cất giữ thực phẩm ở nhiệt độ thấp, bảo quản giống vi sinh vật ở nhiệt độ thấp.</para>
+        <para id="id8434987">Đối với nhiệt độ cao. Nhiệt độ cao thường gây chết vi sinh vật một cách nhanh chóng. Đa số vi sinh vật bị chết ở 60 - 800C. Một số khá chết ở nhiệt độ cao hơn. Đặc biệt bào tử có khả năng tồn tại ở nhiệt độ &gt; 1000C. Nhiệt độ cao thường gây biến tính protit, làm hệ enzym lập tức không hoạt động được, vi sinh vật dễ dàng bị tiêu diệt.</para>
+        <para id="id8435025">- Lợi dụng đặc điểm này, người ta tiến hành những phương pháo sấy khô thực phẩm, phương pháp thanh trùng. Như thanh trùng Pasteur, tiệt trùng Tindal, v.v...</para>
+        <para id="id8435040">Theo quan hệ của vi sinh vật đối với nhiệt độ người ta chia ra làm những nhóm khác nhau như sau:</para>
+        <para id="id8435052">Nhóm ưa lạnh: Bao gồm những vi sinh vật có khả năng phát triển ở nhiệt độ lạnh. Đa số những vi sinh vật đã phát triển trong điều kiện lạnh, nhờ quá trình tiến hoá của chúng mà các vi sinh vật quen với điều kiện lạnh rồi. Thí dụ như vi khuẩn phát sáng, vi khuẩn sống trong đầm hồ lạnh. Nhiệt độ tối ưu cho chúng phát triển là 15 -200C. Nhiệt độ cao nhất cho chúng tồn tại là 30 - 350C, và nhiệt độ thấp nhất của chúng là 00C có khi là -60C. Một số nấm mốc có khả năng tồn tại ở -110C.</para>
+        <para id="id8435124">Nhóm vi sinh vật ưa ấm: Phát triển ở nhiệt độ trung bình. Thuộc nhóm này thường thấy những vi khuẩn gây bẩn, vi khuẩn gây bệnh. Nhiệt độ tối ưu cho chúng phát triển là 25 - 360C. Tối thiểu là 100C và tối đa là 43 - 500C.</para>
+        <para id="id8435171">Nhóm vi sinh vật ưa nóng: Thường phát triển ở nhiệt độ tương đối cao. Nhiệt độ tối ưu cho chúng phát triển là 50 - 600C. Tối thiểu là 350C và tối đa là 800C. Thuộc nhóm này gồm có những vi sinh vật phát triển ở đường tiêu hoá động vật, phát triển trên bề mặt đất luôn có ánh sáng mặt trời, trong nguồn nước luôn luôn nóng.</para>
+        <para id="id8435223">Bảng 2.13. Phân loại vi sinh vật theo ảnh hưởng của nhiệt độ</para>
+        <table id="id8435233" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Số TT</entry>
+                <entry>Nhóm vi sinh vật</entry>
+                <entry>Nhiệt độ tối thiểu</entry>
+                <entry>Nhiệt độ tối ưu</entry>
+                <entry>Nhiệt độ tối đa</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>Ưa nóng</entry>
+                <entry>40  450C</entry>
+                <entry>55  750C</entry>
+                <entry>60  700C</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>Ưa ấm</entry>
+                <entry>5 15</entry>
+                <entry>30  40</entry>
+                <entry>40  47</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>Ưa lạnh</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>3.1</entry>
+                <entry>Ưa lạnh bắt buộc</entry>
+                <entry>(-5)  5</entry>
+                <entry>12 15</entry>
+                <entry>15  20</entry>
+              </row>
+              <row>
+                <entry>3.2</entry>
+                <entry>Ưa lạnh không bắt buộc</entry>
+                <entry>(-5)  5</entry>
+                <entry>25 30</entry>
+                <entry>30  35</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id8435769">Ảnh hưởng của độ ẩm</para>
+        <para id="id8435776">Độ ẩm không khí, độ ẩm vật liệu hay độ ẩm môi trường cũng ảnh hưởng rất lớn đến sự phát triển và sinh sản của vi sinh vật. Đa số vi sinh vật phát triển tốt ở độ ẩm không khí 80% và độ ẩm môi trường &gt; 20%. Nếu hạ thấp độ ẩm sẽ làm rối loạn quá trình sinh lý bình thường của vi sinh vật. Độ ẩm là một trong những yếu tố làm cho vi sinh vật tiếp nhận thức ăn dễ dàng. Nhờ có độ ẩm tốt mà các chất dinh dưỡng dễ thâm nhập vào cơ thể, các hệ enzym thuỷ phân mới hoạt động được. Nếu độ ẩm quá thấp xảy ra hiện tượng thay đổi trạng thái của nguyên sinh chất. Từ thy đổi trạng thái như vậy dẫn tới vi sinh vật không phát triển được.</para>
+        <para id="id8435813">Lợi dụng đặc điểm này người ta tiến hành những phương pháp sấy khô, phơi khô để làm giảm độ ẩm nguyên liệu. Làm khô không khí để hạn chế sự phát triển của vi sinh vật hay để những vật liệu cần bảo quản ở những điều kiện khô ráo cho vi sinh vật ít phá hoại.</para>
+        <para id="id8435832">Ảnh hưởng của ánh sáng</para>
+        <para id="id8435840">Ảnh hưởng mặt trời chiếu rọi xuống đất, những vi sinh vật phát triển trên bề mặt đất đều bị tiêu diệt, trừ những vi khuẩn tự dưỡng quang năng. Thường thường chúng bị tiêu diệt rất nhanh trong vài phút đến 1 giờ. Các vi sinh vật gây bệnh thường nhạy cảm với ánh sáng hơn những vi sinh vật gây thối.</para>
+        <para id="id8435861">Tác dụng chiếu sáng phụ thuộc vào bước sóng của tia sáng. Bước sóng càng ngắn, khả năng tác dụng quang hoá càng mạnh càng làm vi sinh vật dễ bị tiêu diệt.</para>
+        <para id="id8435876">Lợi dụng đặc tính này mà người ta thường phơi nắng các dụng cụ cần bảo quản, một mặt làm giảm độ ẩm, một mặt tiêu diệt những vi sinh vật trên bề mặt. Hai nữa, nhiều người tắm nắng, một trong những yêu cầu là làm hệ vi sinh vật trên da bị tiêu diệt.</para>
+        <para id="id8435895">Ảnh hưởng tia tử ngoại</para>
+        <para id="id8435903">Tia tử ngoại có khả năng tiêu diệt vi sinh vật rất nhanh. Chính vì thế mà ngày nay người ta sử dụng tia tử ngoại như một trong những phương thức tiệt trùng trong nghiên cứu hay trong sản xuất.</para>
+        <para id="id8435920">Ảnh hưởng phóng xạ, Roghen</para>
+        <para id="id8435928">Tia phóng xạ và tia rơghen trong khi chiếu xạ mặc dù trong thời gian rất ngắn cũng đủ làm ức chế và tiêu diệt vi sinh vật. Mặt khác cũng có nhiều vi sinh vật có khả năng bền vững với điều kiện chiếu xạ này.</para>
+        <para id="id8435945">Ảnh hưởng của chất hoà tan (áp suất)</para>
+        <para id="id8435954">Nồng độ hoà tan thường gây áp suất thẩm thấu lên màng tế bào vi sinh vật. Ở đây thường xảy ra hai trường hợp.</para>
+        <para id="id8435968">Trường hợp thứ nhất: Trường hợp chất hoà tan trong môi trường quá cao. Trong tế bào vi sinh vật xảy ra hiện tượng, tách nước ra ngoài môi trường. Vì thế tế bào xảy ra hiện tượng mất nước hay là teo nguyên sinh chất (hay co nguyên sinh chất). Vì thế làm thay đổi khả năng trao đổi chất của tế bào, làm tế bào dễ bị chết.</para>
+        <para id="id8435992">Trường hợp thứ hai: Tế bào vi sinh vật có khả năng thích ứng với điều kiện áp suất thẩm thấu ở môi trường thay đổi. Trong điều kiện đó xuất hiện sự tích luỹ trong dịch bào những muối khoáng hoặc là những chất hoà tan làm điều hòa áp suất ở trong và ở ngoài tế bào. Đây là hiện tượng tự điều chỉnh áp suất của vi sinh vật.</para>
+        <para id="id8436010">Ứng dụng hiện tượng này người ta thường tiến hành muối chua rau quả và muối thịt hoặc ngâm đường.</para>
+        <para id="id8436021">Đa số vi sinh vật gây thối bị ức chế ở nồng độ muối 5 - 10% (thí dụ Proteus vulgaris, Bac. Mesentericus). Vì thế nồng độ muối 5 - 10% có khả năng bảo quản một số sản phẩm thực phẩm. Trong thực tế người ta dùng nhiều hơn. Thịt thường cho 30%, dưa chuột 12 - 15%, cá 20%, còn đối với nồng độ đường thì cao hơn, có thể lên 40%. Một số vi sinh vật khác có khả năng tồn tại ở nồng độ 80%.</para>
+      </section>
+      <section id="id-35450751003">
+        <title>Ảnh hưởng của các yếu tố hoá học</title>
+        <para id="id8436059">Các chất hoá học tác dụng lên vi sinh vật khác nhau hoàn toàn khác nhau. Ta xét một số ảnh hưởng cơ bản sau:</para>
+        <para id="id8436072">Ảnh hưởng của nồng độ ion hydro (pH)</para>
+        <para id="id8436081">Phản ứng pH môi trường tác động trực tiếp lên vi sinh vật. Ion hydro nằm trong thành phần môi trường làm thay đổi trạng thái diện tích của thành tế bào. Tuỳ theo nồng độ của chúng mà làm tăng hoặc giảm khả năng thẩm thấu của tế bào đối với những ion nhất định. Mặt khác chúng cũng làm ức chế phần nào các enzym có mặt trên thành tế bào.</para>
+        <para id="id8436099">Sự phát triển của vi sinh vật chỉ có thể rất nghiêm ngặt ở axit hay kiềm. Đối với vi khuẩn thuận lợi nhất là chúng phát triển trong môi trường trung tính hoặc kiềm yếu. Đối với nấm men và nấm mốc thì phát triển ở môi trường axit yếu.</para>
+        <para id="id8436118">Nếu nồng độ hydro trong dung dịch vượt quá mức độ bình thường đối với vi sinh vật nào đó thì sự sống bị ức chế. Thí dụ như trong quá trình làm dưa chua, độ axit dần dần tăng lên làm tiêu diệt những vi khuẩn gây thối, sau đó những vi khuẩn lactic. Sự thay đổi pH môi trường có thể gây ra thay đổi kiểu lên men hay đặc tính lên men.</para>
+        <para id="id8436136">Trong điều kiện phòng thí nghiệm phần lớn chúng ta sử dụng những môi trường có pH đối với vi khuẩn 7 - 7,6; đối với nấm men và nấm mốc 3,0 - 6,0.</para>
+        <para id="id8436151">Bảng 2.13. Ảnh hưởng pH đối với một số vi sinh vật</para>
+        <table id="id8436161" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>LOÀI VI SINH VẬT</entry>
+                <entrytbl namest="c2" nameend="c4" cols="3">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c3">pH môi trường</entry>
+                    </row>
+                    <row>
+                      <entry>Độ axit tối thiểu</entry>
+                      <entry>Tối ưu</entry>
+                      <entry>Kiềm tối thiểu</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>Saccharomyces cerevisiae</entry>
+                <entry>4</entry>
+                <entry>5,8</entry>
+                <entry>6,8</entry>
+              </row>
+              <row>
+                <entry>Streptococus lactic </entry>
+                <entry>4,0 - 5,1</entry>
+                <entry/>
+                <entry>7,9</entry>
+              </row>
+              <row>
+                <entry>Lactobacterinus casei</entry>
+                <entry>3,0 - 3,9</entry>
+                <entry>-</entry>
+                <entry>7,1</entry>
+              </row>
+              <row>
+                <entry>E. coli </entry>
+                <entry>4,4</entry>
+                <entry>6,5 - 7,8</entry>
+                <entry>7,8</entry>
+              </row>
+              <row>
+                <entry>Clostr.amylobacter</entry>
+                <entry>5,7</entry>
+                <entry>6,9 - 7,3</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>Vi khuẩn gây thối</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Bac. Mesentericeus</entry>
+                <entry>5,8</entry>
+                <entry>6,8</entry>
+                <entry>8,5</entry>
+              </row>
+              <row>
+                <entry>Clostr. Putrificum</entry>
+                <entry>4,2</entry>
+                <entry>7,5 - 8,5</entry>
+                <entry>9,4</entry>
+              </row>
+              <row>
+                <entry>Vi khuẩn cố định đạm</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Azotobacter chroccoccum</entry>
+                <entry>5,6</entry>
+                <entry>65 - 7,8</entry>
+                <entry>8,8 - 9,2</entry>
+              </row>
+              <row>
+                <entry>Vi khuẩn nitrat</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>Nitrosomonas </entry>
+                <entry>3,9</entry>
+                <entry>7,7 - 7,9</entry>
+                <entry>9,7</entry>
+              </row>
+              <row>
+                <entry>Nitrosobacter</entry>
+                <entry>3,9</entry>
+                <entry>6,8 - 7,3</entry>
+                <entry>13,0</entry>
+              </row>
+              <row>
+                <entry>Nấm mốc</entry>
+                <entry>1,2</entry>
+                <entry>1,7 - 7,7</entry>
+                <entry>9,2 - 11,1</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id8436836"/>
+        <para id="id8436840">Ứng dụng ảnh hưởng của pH: Hiện nay người ta ứng dụng ảnh hưởng này trong sản xuất cũng như trong chọn giống vi sinh vật chủ yếu tạo điều kiện cho vi sinh vật có lợi phát triển và ức chế sự phát triển của vi sinh vật có hại. Thí dụ như trong đời sống người ta thường hay ngâm dấm, dầm dấm. Đó là một trong những cách bảo quản.</para>
+        <para id="id8436863">Ảnh hưởng của chất độc, các chất diệt khuẩn</para>
+        <para id="id8436873">Nhiều chất độc hoá học có khả năng tiêu diệt vi sinh vật. Khả năng tác dụng này có một ý nghĩa rất lớn trong kỹ thuật vi sinh vật học. Cơ chế tác dụng của chúng khác nhau, nói chung không đồng nhất, nó phụ thuộc vào bản chất hoá học của chất diêt vi sinh vật, phụ thuộc vào từng loài vi sinh vật.</para>
+        <para id="id8436891">Thí dụ: Este, alcol, dung dịch kiềm yếu tác dụng làm tan chất lipoit có trong thành phần tế bào. Muối kim loại nặng, kẽm, axit, phocmanlin làm đông tụ protein, làm thay đổi thành phần bào tương của vi sinh vật.</para>
+        <para id="id8436916">Axit nitric, clo, bột clo, permanganat kali, các chất hữu cơ oxy hoá mạnh có khả năng phá huỷ hẳn tế bào vi sinh vật, còn các chất khác như glyxerin, nồng độ đường và nồng độ muối cao gây áp suất thẩm thấu.</para>
+        <para id="id8436933">Các chất được ứng dụng trong kỹ thuật để tiêu diệt vi sinh vật còn gọi là chất diệt khuẩn. Hoạt tính diệt khuẩn của các chất hoá học phụ thuộc trước tiên vào cấu tạo, nồng độ chất, thời gian tác dụng của nó đối với vi sinh vật, loại vi sinh vật, thành phần hoá lý của môi trường và nhiệt độ của môi trường đó.</para>
+        <para id="id8436951">Ứng dụng: Các chất diệt khuẩn được ứng dụng trong công nghiệp thực phẩm phải đảm bảo những yêu cầu cơ bản sau:</para>
+        <list id="id8436962" list-type="enumerated">
+          <item>Tác dụng diệt khuẩn mạnh ở nồng độ nhỏ.</item>
+          <item>Có khả năng tan trong nước</item>
+          <item>Chất diệt khuẩn không được có mùi, vị và không gây độc hại cho người.</item>
+          <item>Bền vững trong bất kỳ điều kiện bảo quản nào.</item>
+          <item>Không gây tác dụng phá huỷ dụng cụ chứa cũng như thiết bị kỹ thuật.</item>
+        </list>
+        <para id="id8437019">Đối với vật dụng diệt khuẩn ẩm thì dùng chất hoá học ở dạng dung dịch, huyền phù hay bột còn chất khí thì dùng dạng khí hoặc dạng hơi.</para>
+        <para id="id8437030">Các chất hóa học thường được ứng dụng để diệt khuẩn như sau:</para>
+        <para id="id8437042">* Kiềm và muối</para>
+        <para id="id8437054">- NaOH 0,1% với pH = 10, trong nồng độ này vi sinh vật bị tiêu diệt trong 1 - 2 phút ở nhiệt độ 400C (không được dùng với thiết bị làm bằng nhôm).</para>
+        <para id="id8437077">- NaCO3 1% hay 0,5% thường sử dụng ở nhiệt độ 550C.</para>
+        <para id="id8437104">* Halogen và những dẫn xuất</para>
+        <para id="id8437110">- Clor: Đây là chất diệt khuẩn rất mạnh. Nó có thể sử dụng ở dạng nước hay dạng khí. Tác dụng của chúng lên tế bào dinh dưỡng, lên bào tử không đồng đều. Nồng độ rất nhỏ cũng đủ tiêu diệt vi sinh vật.</para>
+        <para id="id8437132">Phản ứng Clor với nước theo cơ chế sau:</para>
+        <para id="id8437142">Cl2 + H2O  HOCl + HCl </para>
+        <para id="id8437177">Ngoài ClO2 ra tác dụng diệt vi sinh vật còn có O và HCl</para>
+        <para id="id8437196">HOCl  HCl + O</para>
+        <para id="id8437215">Khả năng tác dụng của Clor lên trực khuẩn đường ruột xem bảng sau:</para>
+        <para id="id8437226">Bảng 2.14. Khả năng tác dụng của Clo lên vi sinh vật</para>
+        <table id="id8437238" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Thời gian tương tác (phút)</entry>
+                <entrytbl namest="c2" nameend="c5" cols="4">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <colspec colnum="4" colname="c4"/>
+                  <tbody>
+                    <row>
+                      <entry namest="c1" nameend="c4">Lượng vi sinh vật trong 1ml nước phụ thuộc nồng độ Clo mg/l</entry>
+                    </row>
+                    <row>
+                      <entry>0,5</entry>
+                      <entry>1,0</entry>
+                      <entry>2,0</entry>
+                      <entry>4,0</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>0</entry>
+                <entry>1.800.000</entry>
+                <entry>1.800.000</entry>
+                <entry>1.800.000</entry>
+                <entry>1.800.000</entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>13.900</entry>
+                <entry>1.940</entry>
+                <entry>350</entry>
+                <entry>285</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>6.000</entry>
+                <entry>970</entry>
+                <entry>24</entry>
+                <entry>8</entry>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>4.500</entry>
+                <entry>640</entry>
+                <entry>15</entry>
+                <entry>5</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id8437846">- Bột Clo CaOCl2 là dạng hypoclorit được ứng dụng nhiều trong công nghiệp. Thường thường sử dụng nồng độ 2%.</para>
+        <para id="id8437867">- Antifocmin thường được ứng dụng nhiều trong sản xuất bia. Antifocmin được điều chế từ ba thành phần bột Clor, hydroxit canxi, hydroxit natri.</para>
+        <para id="id8437881">* Hợp chất kim loại nặng</para>
+        <para id="id8437894">Thường sử dụng nhiều là thuỷ ngân, đồng và bạc. Chúng ở dạng các hợp chất hữu cơ hay vô cơ. Các chất này chủ yếu là làm đông tụ protein của vi sinh vật.</para>
+        <para id="id8437909">Clorua thuỷ ngân. Thường sử dụng ở trạng thái dung dịch ở nồng độ 1/10000. Nếu nồng độ 1/1000 sẽ tiêu diệt những tế bào dinh dưỡng trong vòng 1 - 30 phút. Và nồng độ 1/500 tiêu diệt bào tử vi sinh vật.</para>
+        <para id="id8437933">Các hợp chất bạc. Thường sử dụng nhiều dạng khác nhau. Trong y học người ta sử dụng nitrat bạc. Trong công nghiệp thực phẩm người ta sử dụng một số hợp chất khác. Cơ chế tác dụng chủ yếu là do bạc tác dụng lên tế bào ở nồng độ 1:10.000.000.000.</para>
+        <para id="id8437957">* Phenol và những dẫn xuất của chúng</para>
+        <para id="id8437964">Thường sử dụng rất nhiều những đầu xuất khác nhau của phenol.</para>
+        <para id="id8437975">A. Cacbonlic (C6H5OH). Thường sử dụng với độ pha loãng 1:100. Ở nồng độ này phần lớn những tế bào dinh dưỡng bị tiêu diệt sau 5 - 10 phút. Trong nồng độ dung dịch 2 0 5% tiưêu diệt nhiều tế bào gây bệnh.</para>
+        <para id="id8438008">* Các chất khí</para>
+        <para id="id8438014">Thường sử dụng nhiều chất khí khác nhau. Rất nhiều chất khí có khả năng tiêu diệt vi sinh vật.</para>
+        <para id="id8438027">Foocmalin. Cơ chế tác dụng của chúng là lên nhóm amin của protit vi sinh vật dẫn tới làm biến tính chúng.</para>
+        <para id="id8438040">Nồng độ phocmalin 5% tiêu diệt bào tử sau 30 phút - 2% sau 60 phút, 1% sau 2 giờ. Để diệt khuẩn thường sử dụng dung dịch 2% được điều chế từ dung dịch 40% focmalin.</para>
+        <para id="id8438055">Ngoài ra người ta còn sử dụng SO2 và một số chất khác trong công nghiệp nước uống.</para>
+        <para id="id8438075">Các sản phẩm trao đổi chất</para>
+        <para id="id8438088">Trong quá trình sinh trưởng và phát triển của vi sinh vật cũng như nhiều sinh vật khác có hai quá trình đồng hoá và dị hoá. Hai quá trình này luôn luôn song song tồn tại. Do quá trình dị hoá mà nhiều sản phẩm trao đổi chất của chúng có tác dụng ngược lại quá trình đồng hoá.</para>
+        <para id="id8438107">Các sản phẩm trao đổi chất thường có tác dụng rất độc hại đối với vi sinh vật. Bình thường các vi sinh vật lấy các chất dinh dưỡng trong môi trường đồng thời thải các chất cặn bã ra xung quanh. Các chất thải này một mặt gây ức chế các quá trình hấp thụ thức ăn của vi sinh vật. Các sản phẩm trao đổi chất bao bọc xung quanh tế bào tạo thành một lớp làm cho các chất dinh dưỡng không chui vào trong tế bào được. Mặt khác chính các sản phẩm trao đổi chất này gây tác động ức chế sinh tổng hợp các hệ enzym và làm ức chế hoạt động của enzym.</para>
+        <para id="id8438139">Hiểu được tác dụng này người ta tiến hành nuôi vi sinh vật để thu sinh khối phải cải tiến nhiều cách để làm sản phẩm trao đổi chất ít gây độc hại đối với vi sinh vật. Các biện pháp đó như sau:</para>
+        <list id="id8438156" list-type="enumerated">
+          <item>Khuấy trộn là một trong những phương pháp làm các thành phần trao đổi chất không bám xung quanh tế bào, không ức chế hoạt động của vi sinh vật.</item>
+          <item>Thổi khí cũng có tác dụng tương tự, đồng thời đẩy nhanh các chất khí độc hại ra khỏi môi trường.</item>
+          <item>Tiến hành nuôi cấy liên tục làm thay đổi thành phần môi trường nuôi cấy, làm giảm nồng độ các chất thải của vi sinh vật trong môi trường.</item>
+        </list>
+      </section>
+      <section id="id-300707068415">
+        <title>Ảnh hưởng các yếu tố sinh học</title>
+        <para id="id8438209">Ngoài tác dụng của các yếu tố bên ngoài, bản thân giữa các vi sinh vật cũng có tác dụng qua lại. Sự tác dụng qua lại này xảy ra muôn hinh muôn vẻ. Từ đó tạo ra những mối quan hệ.</para>
+        <para id="id8438225">Quan hệ công sinh</para>
+        <para id="id8438231">Là hiện tượng trong cùng một môi trường có hai hay nhiều cá thể của hai hay nhiều loài cùng sinh trưởng, cùng phát triển cùng sinh sản mà không gây ảnh hưởng xấu lẫn nhau.</para>
+        <para id="id8438247">Thí dụ như vi khuẩn và cây họ đậu, thí dụ như nấm men và vi khuẩn Lactic. Vi khuẩn Lactic làm axit hoá môi trường tạo điều kiện thuận lợi cho nấm men phát triển. Nấm men phát triển làm giàu các chất trong môi trường cho vi khuẩn phát triển. Trong các chất đó lưu ý nhất là vitamin và các hợp chất chứa nitơ.</para>
+        <para id="id8438265">Quan hệ đối kháng</para>
+        <para id="id8438274">Là hiện tượng mà trong cùng một điều kiện môi trường có một loài vi vinh vật này trong quá trình sinh trưởng, phát triển sẽ lấn át loài khác, làm cho loài kia bị tiêu diệt. Thí dụ như một số vi sinh vật tạo thành chất kháng sinh để tiêu diệt loài khác.</para>
+        <para id="id8438293">Quan hệ ký sinh</para>
+        <para id="id8438299">Đây là mối quan hệ giữa hai cơ thể sống, một loài này sống bám vào loài khác. Loài này phát triển lên và sẽ làm loài kia bị tiêu diệt. Thí dụ như virus đối với các vi sinh vật khác (Thực khuẩn thể, virus của động vật và thực vật).</para>
+      </section>
+      <section id="id-0311543366543">
+        <title>Quá trình sinh trưởng và phát triển</title>
+        <para id="id8438327">Quá trình sinh trưởng và phát triển là đặc tính của vi sinh vật sống. Cũng như ở các sinh vật khác, vi sinh vật sẽ tăng kích thước tế bào và tăng nhanh khối lượng tế bào chung (Người ta gọi là sinh khối - biomass).</para>
+        <para id="id8438344">Sinh trưởng và phát triển thường không phải lúc nào cũng diễn ra cùng một lúc, nghĩa là số lượng tế bào không phải lúc nào cũng tỷ lệ thuận với sinh khối tạo thành. Điều dễ nhận thấy nhất là trong môi trường nghèo chất dinh dưỡng, tế bào vẫn có khả năng sinh sản để tăng số lượng tế bào nhưng kích thước tế bào này nhỏ hơn rất nhiều trong điều kiện đầy đủ chất dinh dưỡng.</para>
+        <para id="id8438363">Sự sinh trưởng</para>
+        <para id="id8438372">Trong điều kiện môi trường nuôi cấy đầy đủ chất dinh dưỡng và trong điều kiện nuôi cấy thích hợp, tế bào vi sinh vật tăng nhanh về kích thước đồng thời sinh khối được tích luỹ nhiều.</para>
+        <para id="id8438388">Có nhiều phương pháp kiểm tra sự sinh trưởng của vi sinh vật trong quá trình nuôi cấy. Những phương pháp đó được trình bày như sau:</para>
+        <para id="id8438402">- Đo kích thước tế bào non và tế bào trưởng thành.</para>
+        <para id="id8438413">- Xác định sinh khối tươi và sinh khối khô bằng phương pháp ly tâm và cân xác định trọng lượng.</para>
+        <para id="id8438428">- Xác định hàm lượng nitơ tổng số hoặc xác định lượng cacbon tổng số.</para>
+        <para id="id8438440">- Xác định các quá trình trao đổi chất thông qua các cấu tử tham gia quá trình đó như lượng oxy tiêu hao, lượng CO2 sản sinh ra và các sản phẩm của quá trình lên men.</para>
+        <para id="id8438463">Sự phát triển</para>
+        <para id="id8438469">Các vi sinh vật sinh sản bằng phương pháp nhân đôi thường cho lượng sinh khối rất lớn sau một thời gian ngắn. Trong trường hợp sinh sản theo phương pháp này thì trong dịch nuôi cấy sẽ không có tế bào già. Vì rằng tế bào được phân chia thành hai, cứ như vậy tế bào lúc nào cũng ở trạng thái đang phát triển. Ta chỉ phát hiện tế bào già trong trường hợp môi trường thiếu chất dinh dưỡng và tế bào vi sinh vật không có khả năng sinh sản nữa.</para>
+        <para id="id8438488">Riêng đối với nấm men hiện tượng phát triển tế bào già rất rõ. Nấm men sinh sản bằng cách nảy chồi. Khi chồi non tách khỏi tế bào mẹ để sống độc lập thì nơi tách đó trên tế bào mẹ tạo thành một vết như vết sẹo. Vết sẹo này sẽ không có khả năng tạo ra chồi mới. Cứ như vậy tế bào nấm men mẹ sẽ chuyển thành tế bào già theo thời gian.</para>
+        <para id="id8438506">Để xác định khả năng phát triển của vi sinh vật hiện nay người ta dùng nhiều phương pháp khác nhau:</para>
+        <para id="id8438517">- Xác định định số lượng tế bào bằng phương pháp đếm trực tiếp trên kính hiển vi hay gián tiếp trên mặt thạch.</para>
+        <para id="id8438530">- Đo độ đục của tế bào trong dung dịch nuôi cấy trên cơ sở xây dựng một đồ thị chuẩn của mật độ tế bào.</para>
+        <para id="id8438543">- Tính thời gian một thế hệ (một lần sinh sản). Thời gian cho một lần phân chia tế bào gọi là thời gian thế hệ G. G được biểu diễn theo công thức sau:</para>
+        <para id="id8438558">G = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mi>n</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {t rSub { size 8{1} } ` - `t rSub { size 8{0} } }  over  {n} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id8438642">Trong đó:</para>
+        <para id="id8438651">G: Là thời gian phân chia tế bào</para>
+        <para id="id8438661">t0: Thời gian bắt đầu phân chia</para>
+        <para id="id8438681">t1: Thời gian kết thúc phân chia</para>
+        <para id="id8438701">n: số lần phân chia</para>
+        <para id="id8438710">Số lần phân chia (n) được tính theo công thức sau:</para>
+        <para id="id8438721">n = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>lg</m:mtext><m:msub><m:mi>B</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mtext>lg</m:mtext><m:msub><m:mi>B</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:mtext>lg</m:mtext><m:mn>2</m:mn></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"lg"B rSub { size 8{1} } ` - `"lg"B rSub { size 8{2} } }  over  {"lg"2} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id8438812">Trong đó:</para>
+        <para id="id8438821">B1: Số lượng tế bào sau nuôi cấy</para>
+        <para id="id8438841">B0: Số lương tế bào bắt đầu nuôi cấy</para>
+        <para id="id8438862">Số lần phân chia trong 1 giờ (C) hay còn gọi là hằng số tốc độ phân chia được tính như sau:</para>
+        <para id="id8438874">C = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>n</m:mi><m:mrow><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>lg</m:mtext><m:msub><m:mi>B</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mtext>lg</m:mtext><m:msub><m:mi>B</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:mtext>lg</m:mtext><m:mn>2</m:mn><m:mi/><m:mo stretchy="false">(</m:mo><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {n}  over  {t rSub { size 8{1} } ` - `t rSub { size 8{0} } } } = {  {"lg"B rSub { size 8{1} } `` - `"lg"B rSub { size 8{0} } }  over  {"lg"2` \( t rSub { size 8{1} } ` - `t rSub { size 8{0} }  \) } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id8439045">Mối quan hệ giữa thời gian thế hệ G và hằng số tốc độ C được biểu diễn như sau:</para>
+        <para id="id8439057">G = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mi>C</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {C} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id8439115">Thứ nhất là chất dinh dưỡng trong môi trường giảm và dần đến hết. Vi sinh vật không đủ chất dinh dưỡng để duy trì quá trình trao đổi chất. Thứ hai tế bào đã đến giai đoạn già. Thứ ba là sản phẩm trao đổi chất trong môi trường quá nhiều gây ức chế quá trình trao đổi chất của tế bào. Nếu mục đích của quá trình nuôi cấy là thu nhận các sản phẩm trao đổi chất thì nên kết thúc ở pha này.</para>
+        <para id="id8439133">* Hiện tượng sinh trưởng kép</para>
+        <para id="id8439143">Hiện tượng này xảy ra khi môi trường chứa nguồn cacbon gồm một hỗn hợp của hai chất hữu cơ khác nhau. Lúc đầu vi sinh vật đồng hoá chất hữu cơ nào chúng thấy thích hợp nhất. Mặt khác sản phẩm và cơ chất một sẽ kìm hãm các enzym của cơ chất 2. Quá trình này đòi hỏi một thời gian nhất định. Vì thế, ta thấy xuất hiện hai pha lag và hai pha log. Ta có thể xem đồ thị hình 2.6</para>
+        <para id="id8439161">* Sinh trưởng và phát triển trong nuôi cấy liên tục</para>
+        <para id="id8439172">Phương pháp nuôi cấy liên tục là phương pháp người ta cho dòng môi trường mới liên tục vào trong quá trình lên men, đồng thời sẽ lấy liên tục sản phẩm của quá trình lên men đó ra khỏi hệ thống lên men.</para>
+        <para id="id8439189">Trong phương pháp này người ta giữ thể tích lên men trong thiết bị lên men không thay đổi, bằng cách điều chỉnh tốc độ môi trường mới vào và sản phẩm cuối của quá trình lên men. Tốc độ này thường không thay đổi. Vi sinh vật phát triển trong môi trường nuôi cấy liên tục sẽ có một quy luật riêng. Quá trình tăng sinh khối trong một quy luật riêng. Quá trình tăng sinh khối trong môi trường lên men liên tục cùng trải qua giai đoạn thích ứng ban đầu (pha lag) và giai đoạn tăng sinh khối (pha log). Nhưng sau đó tổng lượng sinh khối sẽ không thay đổi. Ta có thể xem đồ thị sinh trưởng sau:</para>
+        <para id="id8439222"><figure id="id8439233"><media id="id1171871863828" alt=""><image src=".jpg" mime-type="image/jpeg" height="425" width="383"/></media></figure>Hình 2.6. Sinh trưởng kép của vi sinh vậtHình 2.7. Sinh trưởng và phát triển của vi sinh vật trong môi trường cấy liên tục</para>
+        <para id="id8439305"/>
+        <para id="id8439309">Các giai đoạn sinh trưởng và phát triển trong nuôi cấy tĩnh</para>
+        <para id="id8439320">Phương pháp nuôi cấy tĩnh hay phương pháp nuôi cấy theo chu kỳ là phương pháp nuôi cấy ở đó môi trường dinh dưỡng được giữ nguyên khi bắt đầu nuôi cấy đến khi kết thúc quá trình nuôi cấy mà không cho thêm chất dinh dưỡng mới vào.</para>
+        <para id="id8439338">Đồng thời sản phẩm của quá trình lên men đó chỉ lấy ra khi hết quá trình nuôi cấy.</para>
+        <para id="id8439349">Sự phát triển và sinh trưởng của vi sinh vật trong hệ kín đó tuân theo một quy luật nhất định.</para>
+        <para id="id8439361">Biểu thị quy luật sinh trưởng và phát triển trong hệ kín này bằng một đồ thị người ta gọi là đồ thị sinh trưởng đơn hay đường cong sinh trưởng đơn.</para>
+        <para id="id8439376">Sự sinh trưởng và phát triển của vi sinh vật trong hệ kín này phải trải qua 4 giai đoạn sau:</para>
+        <para id="id8439388">Giai đoạn thứ nhất (1): Giai đoạn này còn gọi là pha lag - Pha tiền phát. Ở giai đoạn này được tính từ lúc bắt đầu nuôi cấy đến lúc bắt đầu thấy sự sinh trưởng và phát triển nhanh.</para>
+        <para id="id8439409">Số lượng tế bào vỏ sinh khối 12340ABCDThời gian</para>
+        <para id="id8440087">Hình 2.5. Đường cong sinh trưởng của vi sinh vật</para>
+        <para id="id8440097">Ở giai đoạn này vi sinh vật chưa tiến hành sinh sản mà chỉ xảy ra quá trình thích nghi với môi trường nuôi cấy. Kích thước các tế bào bắt đầu tăng dần do sự trao đổi chất với môi trường rất mạnh. Thời gian pha này ngắn hay dài phụ thuộc rất nhiều vào tuổi sinh lý của giống vi sinh vật đưa vào nuôi cấy và chất lượng của thành phần môi trường.</para>
+        <para id="id8440120">Giai đoạn thứ hai (2): còn gọi là pha cấp số hay pha log. Pha này được biểu hiện rõ nét bởi tốc độ sinh sản của vi sinh vât đạt cực đại. Tế bào vừa sinh sản mạnh, vừa tăng sinh khối. Pha này được biểu thị như một cấp số nhân, nó tăng theo phương trình:</para>
+        <para id="id8440144">B1 = B0.2n</para>
+        <para id="id8440174">Trong pha này các chất dinh dưỡng giảm đi rất nhanh do sự đồng hoá chúng bởi vì vi sinh vật phát triển rất mạnh. Ở giai đoạn này vi sinh vật tiến hành tổng hợp enzym với số lượng và chất lượng rất cao. Vì thế nếu mục đích của quá trình nuôi cấy là thu nhận các chất có hoạt tính sinh học hoặc tế bào có khả năng hoạt động mạnh, người ta thường kết thúc quá trình ở cuối giai đoạn log này. </para>
+        <para id="id8440193">Giai đoạn thứ ba (3): Là giai đoạn cân bằng hay pha ổn định. Trong pha này quần thể vi sinh vật ở trạng thái cân bằng động. Tổng số tế bào mới sinh ra bao giờ cũng gần bằng tổng số tế bào chết đi.</para>
+        <para id="id8440217">Các chất dinh dưỡng trong môi trường nuôi cấy giảm một cách rõ rệt. Các chất tạo ra do quá trình trao đổi chất được tích luỹ trong môi trường rất lớn.</para>
+        <para id="id8440232">Sinh khối chung trong pha này đạt được là cao nhất trong quá trình nuôi cấy. Vì thế nếu mục đích nuôi cấy là chỉ để thu tổng sinh khối thì nên kết thúc ở giữa pha ổn định.</para>
+        <para id="id8440248">Giai đoạn thứ tư (4): Còn gọi là pha tử vong. Trong pha này số lượng tế bào sinh ra và tế bào chết không cân bằng. Số lượng tế bào chết tăng rất nhanh.</para>
+      </section>
+    </section>
+  </content>
+</document>
